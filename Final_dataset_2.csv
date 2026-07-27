@@ -1,0 +1,902 @@
+species_name,Order,Family,genus,generic_epithet_length,specific_epithet,specific_epithet_length,species_name_length,authors,number_of_authors,year_of_publication,Etymologies_group,Etymologies_subgroup,Language,Environment
+"Acanthodasys capricornicus Minowa, Guidi, Garraffoni, Bosco, 2026",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,capricornicus,13,25,"Minowa, Guidi, Garraffoni, Bosco",4,2026,G,G2,Latin,Marine
+"Setopus pentasetosus Saponi, Cesaretti, Kosakyan, Serra, Todaro, 2026",Paucitubulatina,Dasydytidae,Setopus,7,pentasetosus,12,19,"Saponi, Cesaretti, Kosakyan, Serra, Todaro",5,2026,M,M2,Latin+Greek,Freshwater
+"Kryptodasys smithsonian Araújo, Hochberg, 2026",Macrodasyida,Macrodasyidae,Kryptodasys,11,smithsonian,11,22,"Araújo, Hochberg",2,2026,P,P5,English,Marine
+"Chaetonotus tobiasi Minowa, Kreutz, Garraffoni, 2026",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tobiasi,7,18,"Minowa, Kreutz, Garraffoni",3,2026,P,P1,Swedish Latinisation,Freshwater
+"Chaetonotus grossoi Minowa, Acosta-Salgado, Garraffoni, 2026",Paucitubulatina,Chaetonotidae,Chaetonotus,11,grossoi,7,18,"Minowa, Acosta-Salgado, Garraffoni",3,2026,P,P1,Spanish Latinisation,Freshwater
+"Carianotus dives Minowa, Kieneke, Balsamo, Guidi, Garraffoni, 2025",Paucitubulatina,Chaetonotidae,Carianotus,10,dives,5,15,"Minowa, Kieneke, Balsamo, Guidi, Garraffoni",5,2025,C,C,Latin,Freshwater
+"Dendroichthydium ibyrapora Minowa, Kieneke, Campos, Balsamo, Plewka, Guidi, Araújo, Garraffoni, 2025",Paucitubulatina,Chaetonotidae,Dendroichthydium,16,ibyrapora,9,25,"Minowa, Kieneke, Campos, Balsamo, Plewka, Guidi, Araújo, Garraffoni",8,2025,E,E2,Nheengatu,Freshwater
+"Ornamentula sanctipetri Sochiarelli, Minowa, Garraffoni, 2025",Paucitubulatina,Dasydytidae,Ornamentula,11,sanctipetri,11,22,"Sochiarelli, Minowa, Garraffoni",3,2025,G,G2,Latin,Freshwater
+"Lepidodermella pirakitan Minowa, Acosta-Salgado, Garraffoni, 2025",Paucitubulatina,Chaetonotidae,Lepidodermella,14,pirakitan,9,23,"Minowa, Acosta-Salgado, Garraffoni",3,2025,M,M2,Nheengatu,Freshwater
+"Paraturbanella anastaciae Campos, Araújo, Todaro, Garraffoni, 2025",Macrodasyida,Turbanellidae,Paraturbanella,14,anastaciae,10,24,"Campos, Araújo, Todaro, Garraffoni",4,2025,P,P3,Latin,Marine
+"Musellifer leasiae Sørensen, Araújo, Macheriotou, Braeckman, Smith, Ingels, 2025",Paucitubulatina,Muselliferidae,Musellifer,10,leasiae,7,17,"Sørensen, Araújo, Macheriotou, Braeckman, Smith, Ingels",6,2025,P,P1,French Latinisation,Marine
+"Heterolepidoderma striatum Rataj Križanová, Vďačný, 2024",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,striatum,8,25,"Rataj Križanová, Vďačný",2,2024,M,M1,Latin,Freshwater
+"Chaetonotus polites Saponi, Kosakyan, Cesaretti, Todaro, 2024",Paucitubulatina,Chaetonotidae,Chaetonotus,11,polites,7,18,"Saponi, Kosakyan, Cesaretti, Todaro",4,2024,M,M3,Latin,Freshwater
+"Cephalodasys mariannae Araújo, 2024",Macrodasyida,Cephalodasyidae,Cephalodasys,12,mariannae,9,21,Araújo,1,2024,P,P4,Brazilian Portuguese Latinisation,Marine
+"Litigonotus ghinii Gammuto, Serra, Petroni, Todaro, 2024",Paucitubulatina,Chaetonotidae,Litigonotus,11,ghinii,6,17,"Gammuto, Serra, Petroni, Todaro",4,2024,P,P1,Latin,Freshwater
+"Halichaetoderma rivale Rataj Križanová, Vďačný, 2023",Paucitubulatina,Chaetonotidae,Halichaetoderma,15,rivale,6,21,"Rataj Križanová, Vďačný",2,2023,E,E2,Latin,Freshwater
+"Halichaetoderma fluviatile Rataj Križanová, Vďačný, 2023",Paucitubulatina,Chaetonotidae,Halichaetoderma,15,fluviatile,10,25,"Rataj Križanová, Vďačný",2,2023,G,E2,Latin,Freshwater
+"Halichaetoderma hexagonale Rataj Križanová, Vďačný, 2023",Paucitubulatina,Chaetonotidae,Halichaetoderma,15,hexagonale,10,25,"Rataj Križanová, Vďačný",2,2023,M,M2,Latin+Greek,Freshwater
+"Heterolepidoderma kolickae Rataj Križanová, Vďačný, 2023",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,kolickae,8,25,"Rataj Križanová, Vďačný",2,2023,P,P1,Latin,Freshwater
+"Crasiella kocoti Araújo, Hochberg, 2023",Macrodasyida,Planodasyidae,Crasiella,9,kocoti,6,15,"Araújo, Hochberg",2,2023,P,P1,Latin,Marine
+"Chaetonotus slavicus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,slavicus,8,19,"Rataj Križanová, Vďačný",2,2022,G,G2,Latin,Freshwater
+"Xenotrichula tropicalis Araújo, Wieloch, Hochberg, Garraffoni, 2022",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,tropicalis,10,22,"Araújo, Wieloch, Hochberg, Garraffoni",4,2022,G,G1,Greek Latinisation,Marine
+"Chaetonotus superbus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,superbus,8,19,"Rataj Križanová, Vďačný",2,2022,M,M1,Latin,Freshwater
+"Chaetonotus optabilis Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,optabilis,9,20,"Rataj Križanová, Vďačný",2,2022,M,M1,Latin,Freshwater
+"Chaetonotus mirabilis Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,mirabilis,9,20,"Rataj Križanová, Vďačný",2,2022,M,M2,Latin,Freshwater
+"Chaetonotus luxus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,luxus,5,16,"Rataj Križanová, Vďačný",2,2022,M,M1,Latin,Freshwater
+"Chaetonotus iratus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,iratus,6,17,"Rataj Križanová, Vďačný",2,2022,M,M1,Latin,Freshwater
+"Chaetonotus gulosus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,gulosus,7,18,"Rataj Križanová, Vďačný",2,2022,M,M1,Latin,Freshwater
+"Chaetonotus avarus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,avarus,6,17,"Rataj Križanová, Vďačný",2,2022,M,M2,Latin,Freshwater
+"Chaetonotus arcanus Rataj Križanová, Vďačný, 2022",Paucitubulatina,Chaetonotidae,Chaetonotus,11,arcanus,7,18,"Rataj Križanová, Vďačný",2,2022,M,M3,Latin,Freshwater
+"Polymerurus insularis Magpali, Machado, Araújo, Garraffoni, 2021",Paucitubulatina,Chaetonotidae,Polymerurus,11,insularis,9,20,"Magpali, Machado, Araújo, Garraffoni",4,2021,E,E2,Latin,Freshwater
+"Ptychostomella sebastiana Araújo, Garraffoni, 2021",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,sebastiana,10,24,"Araújo, Garraffoni",2,2021,G,G2,Latin,Marine
+"Lepidodermella weissi Kirk, 2021",Paucitubulatina,Chaetonotidae,Lepidodermella,14,weissi,6,20,Kirk,1,2021,P,P1,Latin,Freshwater
+"Lepidochaetus tirjakovae Rataj Križanová, Vďačný, 2021",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,tirjakovae,10,23,"Rataj Križanová, Vďačný",2,2021,P,P1,Latin,Freshwater
+"Ornamentula miyazakii Minowa, Garraffoni, 2021",Paucitubulatina,Dasydytidae,Ornamentula,11,miyazakii,9,20,"Minowa, Garraffoni",2,2021,P,P3,Latin,Freshwater
+"Neogossea cthulhu Minowa, Garraffoni, 2020",Paucitubulatina,Neogosseidae,Neogossea,9,cthulhu,7,16,"Minowa, Garraffoni",2,2020,C,C,English,Freshwater
+"Acanthodasys australis Bosco, Lourenço, Guidi, Balsamo, Hochberg, Garraffoni, 2020",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,australis,9,21,"Bosco, Lourenço, Guidi, Balsamo, Hochberg, Garraffoni",6,2020,G,G1,Latin,Marine
+"Chimaeradasys polytubulatus Kieneke, Todaro, 2020",Macrodasyida,Thaumastodermatidae,Chimaeradasys,13,polytubulatus,13,26,"Kieneke, Todaro",2,2020,M,M2,Latin,Marine
+"Chimaeradasys oligotubulatus Kieneke, Todaro, 2020",Macrodasyida,Thaumastodermatidae,Chimaeradasys,13,oligotubulatus,14,27,"Kieneke, Todaro",2,2020,M,M2,Latin+Greek,Marine
+"Paraturbanella tricaudata Campos, Todaro, Garraffoni, 2020",Macrodasyida,Turbanellidae,Paraturbanella,14,tricaudata,10,24,"Campos, Todaro, Garraffoni",3,2020,M,M2,Latin,Marine
+"Chaetonotus invitatus Kolicka, 2019",Paucitubulatina,Chaetonotidae,Chaetonotus,11,invitatus,9,20,Kolicka,1,2019,E,E2,Latin,Freshwater
+"Redudasys Braziliensis Garraffoni, Araújo, Lourenço, Guidi, Balsamo, 2019",Macrodasyida,Redudasyidae,Redudasys,9,Braziliensis,12,21,"Garraffoni, Araújo, Lourenço, Guidi, Balsamo",5,2019,G,G2,Latin,Freshwater
+"Chaetonotus inaequabilis Kolicka, 2019",Paucitubulatina,Chaetonotidae,Chaetonotus,11,inaequabilis,12,23,Kolicka,1,2019,M,M1,Latin,Freshwater
+"Chaetonotus horridus Kolicka, 2019",Paucitubulatina,Chaetonotidae,Chaetonotus,11,horridus,8,19,Kolicka,1,2019,M,M1,Latin,Freshwater
+"Chaetonotus semovitus Kolicka, 2019",Paucitubulatina,Chaetonotidae,Chaetonotus,11,semovitus,9,20,Kolicka,1,2019,P,P1,Latin,Freshwater
+"Kryptodasys ulfjondeliusi Todaro, Dal Zotto, Kånneby, Hochberg, 2019",Macrodasyida,Macrodasyidae,Kryptodasys,11,ulfjondeliusi,13,24,"Todaro, Dal Zotto, Kånneby, Hochberg",4,2019,P,P1,Latin,Marine
+"Kryptodasys carlosrochai Todaro, Dal Zotto, Kånneby, Hochberg, 2019",Macrodasyida,Macrodasyidae,Kryptodasys,11,carlosrochai,12,23,"Todaro, Dal Zotto, Kånneby, Hochberg",4,2019,P,P1,Latin,Marine
+"Chaetonotus bombardus Kolicka, Kotwicki, Dabert, 2018",Paucitubulatina,Chaetonotidae,Chaetonotus,11,bombardus,9,20,"Kolicka, Kotwicki, Dabert",3,2018,E,E5,Latin,Freshwater
+"Paraturbanella xaymacana Dal Zotto, Leasi, Todaro, 2018",Macrodasyida,Turbanellidae,Paraturbanella,14,xaymacana,9,23,"Dal Zotto, Leasi, Todaro",3,2018,G,G1,Arawakan Latinisation,Marine
+"Lepidodermella polaris Kolicka, Kotwicki, Dabert, 2018",Paucitubulatina,Chaetonotidae,Lepidodermella,14,polaris,7,21,"Kolicka, Kotwicki, Dabert",3,2018,G,G1,Latin,Freshwater
+"Chaetonotus hornsundi Kolicka, Kotwicki, Dabert, 2018",Paucitubulatina,Chaetonotidae,Chaetonotus,11,hornsundi,9,20,"Kolicka, Kotwicki, Dabert",3,2018,G,G1,Latin,Freshwater
+"Chaetonotus borealis Kolicka, Kotwicki, Dabert, 2018",Paucitubulatina,Chaetonotidae,Chaetonotus,11,borealis,8,19,"Kolicka, Kotwicki, Dabert",3,2018,G,G1,Latin,Freshwater
+"Turbanella lobata Yamauchi, Kajihara, 2018",Macrodasyida,Turbanellidae,Turbanella,10,lobata,6,16,"Yamauchi, Kajihara",2,2018,M,M2,Latin,Marine
+"Turbanella cuspidata Yamauchi, Kajihara, 2018",Macrodasyida,Turbanellidae,Turbanella,10,cuspidata,9,19,"Yamauchi, Kajihara",2,2018,M,M2,Latin,Marine
+"Turbanella pilosum Kolicka, Kotwicki, Dabert, 2018",Macrodasyida,Turbanellidae,Turbanella,10,pilosum,7,17,"Kolicka, Kotwicki, Dabert",3,2018,M,M2,Latin,Marine
+"Chaetonotus persimilis Kolicka, Kotwicki, Dabert, 2018",Paucitubulatina,Chaetonotidae,Chaetonotus,11,persimilis,10,21,"Kolicka, Kotwicki, Dabert",3,2018,M,M3,Latin,Freshwater
+"Cephalodasys mahoae Yamauchi, Kajihara, 2018",Macrodasyida,Cephalodasyidae,Cephalodasys,12,mahoae,6,18,"Yamauchi, Kajihara",2,2018,P,P2,Japanese Latinisation,Marine
+"Chaetonotus antrumus Kolicka, 2017",Paucitubulatina,Chaetonotidae,Chaetonotus,11,antrumus,8,19,Kolicka,1,2017,E,E2,Latin,Freshwater
+"Chaetonotus svalbardi Kolicka, 2017",Paucitubulatina,Chaetonotidae,Chaetonotus,11,svalbardi,9,20,Kolicka,1,2017,G,G1,Latin,Freshwater
+"Chaetonotus gelidus Kolicka, 2017",Paucitubulatina,Chaetonotidae,Chaetonotus,11,gelidus,7,18,Kolicka,1,2017,G,G1,Latin,Freshwater
+"Redudasys neotemperatus Kånneby, Kirk, 2017",Macrodasyida,Redudasyidae,Redudasys,9,neotemperatus,13,22,"Kånneby, Kirk",2,2017,G,G1,Latin,Freshwater
+"Aspidiophorus gullmarsfjordensis Kånneby, Todaro, 2017",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,gullmarsfjordensis,18,31,"Kånneby, Todaro",2,2017,G,G1,Old Norse Latinisation,Marine
+"Paraturbanella africana Todaro, Dal Zotto, Bownes, Perissinotto, 2017",Macrodasyida,Turbanellidae,Paraturbanella,14,africana,8,22,"Todaro, Dal Zotto, Bownes, Perissinotto",4,2017,G,G1,Latin,Marine
+"Haltidytes pseudosquamosus Minowa, Garraffoni, 2017",Paucitubulatina,Dasydytidae,Haltidytes,10,pseudosquamosus,15,25,"Minowa, Garraffoni",2,2017,M,M3,Latin,Freshwater
+"Thaumastoderma ponticulus Araújo, Hochberg, 2017",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,ponticulus,10,24,"Araújo, Hochberg",2,2017,M,M2,Latin,Marine
+"Urodasys completus Todaro, Cesaretti, Dal Zotto, 2017",Macrodasyida,Urodasyidae,Urodasys,8,completus,9,17,"Todaro, Cesaretti, Dal Zotto",3,2017,M,M2,Latin,Marine
+"Pleurodasys incomptus Todaro, Dal Zotto, Bownes, Perissinotto, 2017",Macrodasyida,Cephalodasyidae,Pleurodasys,11,incomptus,9,20,"Todaro, Dal Zotto, Bownes, Perissinotto",4,2017,M,M2,Latin,Marine
+"Chaetonotus jaceki Kolicka, 2017",Paucitubulatina,Chaetonotidae,Chaetonotus,11,jaceki,6,17,Kolicka,1,2017,P,P1,Polish Latinisation,Freshwater
+"Tetranchyroderma garraffoni Araújo, Hochberg, 2017",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,garraffoni,10,26,"Araújo, Hochberg",2,2017,P,P1,Latin,Marine
+"Dactylopodola todaroi Garraffoni, Di Domenico, Hochberg, 2017",Macrodasyida,Dactylopodolidae,Dactylopodola,13,todaroi,7,20,"Garraffoni, Di Domenico, Hochberg",3,2017,P,P1,Latin,Marine
+"Tetranchyroderma hummoni Lee, Chang, Kim, 2017",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hummoni,7,23,"Lee, Chang, Kim",3,2017,P,P1,Latin,Marine
+"Cephalionotus kisielewskii Garraffoni, Araújo, Lourenço, Guidi, Balsamo, 2017",Paucitubulatina,Chaetonotidae,Cephalionotus,13,kisielewskii,12,25,"Garraffoni, Araújo, Lourenço, Guidi, Balsamo",5,2017,P,P1,Polish Latinisation,Freshwater
+"Bifidochaetus articus Kolicka, Kisielewski, 2016",Paucitubulatina,Chaetonotidae,Bifidochaetus,13,articus,7,20,"Kolicka, Kisielewski",2,2016,G,G1,Latin,Freshwater
+"Heterolepidoderma sinus Kolicka, 2015",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,sinus,5,22,Kolicka,1,2015,E,E2,Latin,Marine
+"Cephalodasys interinsularis Kieneke, Schmidt-Rhaesa, Hochberg, 2015",Macrodasyida,Cephalodasyidae,Cephalodasys,12,interinsularis,14,26,"Kieneke, Schmidt-Rhaesa, Hochberg",3,2015,E,E2,Latin,Marine
+"Heterolepidoderma mariae Garraffoni, Melchior, 2015",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,mariae,6,23,"Garraffoni, Melchior",2,2015,P,P1,Latin,Freshwater
+"Thaidasys tongiorgii Todaro, Dal Zotto, Leasi, 2015",Macrodasyida,Macrodasyidae,Thaidasys,9,tongiorgii,10,19,"Todaro, Dal Zotto, Leasi",3,2015,P,P1,Latin,Marine
+"Dactylopodola nadine Todaro, Perissinotto, Bownes, 2015",Macrodasyida,Dactylopodolidae,Dactylopodola,13,nadine,6,19,"Todaro, Perissinotto, Bownes",3,2015,P,P3,Latin,Marine
+"Pseudostomella mandela Todaro, Perissinotto, Bownes, 2015",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,mandela,7,21,"Todaro, Perissinotto, Bownes",3,2015,P,P3,Latin,Marine
+"Oregodasys ashleigha Araújo, Atherton, Hochberg, 2015",Macrodasyida,Thaumastodermatidae,Oregodasys,10,ashleigha,9,19,"Araújo, Atherton, Hochberg",3,2015,P,P2,Latin,Marine
+"Hummondasys jamaicensis Todaro, Leasi, Hochberg, 2014",Macrodasyida,Hummondasyidae,Hummondasys,11,jamaicensis,11,22,"Todaro, Leasi, Hochberg",3,2014,G,G1,Latin,Marine
+"Oregodasys caymanensis Hochberg, Atherton, Kieneke, 2014",Macrodasyida,Thaumastodermatidae,Oregodasys,10,caymanensis,11,21,"Hochberg, Atherton, Kieneke",3,2014,G,G1,Latin,Marine
+"Urodasys poculostylis Atherton, 2014",Macrodasyida,Urodasyidae,Urodasys,8,poculostylis,12,20,Atherton,1,2014,M,M2,Latin+Greek,Marine
+"Musellifer tridentatus Kånneby, Atherton, Hochberg, 2014",Paucitubulatina,Muselliferidae,Musellifer,10,tridentatus,11,21,"Kånneby, Atherton, Hochberg",3,2014,M,M2,Latin,Marine
+"Pseudostomella squamalongispinosa Araújo, Balsamo, Garraffoni, 2014",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,squamalongispinosa,18,32,"Araújo, Balsamo, Garraffoni",3,2014,M,M2,Latin,Marine
+"Dactylopodola deminuitubulata Gilsa, Kieneke, Hochberg, Schmidt-Rhaesa, 2014",Macrodasyida,Dactylopodolidae,Dactylopodola,13,deminuitubulata,15,28,"Gilsa, Kieneke, Hochberg, Schmidt-Rhaesa",4,2014,M,M2,Latin,Marine
+"Crasiella fonseci Hochberg, 2014",Macrodasyida,Planodasyidae,Crasiella,9,fonseci,7,16,Hochberg,1,2014,P,P1,Latin,Marine
+"Musellifer reichardti Kånneby, Atherton, Hochberg, 2014",Paucitubulatina,Muselliferidae,Musellifer,10,reichardti,10,20,"Kånneby, Atherton, Hochberg",3,2014,P,P2,German Latinisation,Marine
+"Dactylopodola axi Gilsa, Kieneke, Hochberg, Schmidt-Rhaesa, 2014",Macrodasyida,Dactylopodolidae,Dactylopodola,13,axi,3,16,"Gilsa, Kieneke, Hochberg, Schmidt-Rhaesa",4,2014,P,P1,Latin,Marine
+"Tetranchyroderma coreense Lee, Kim, Chang, 2013",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,coreense,8,24,"Lee, Kim, Chang",3,2013,G,G2,Latin,Marine
+"Ptychostomella lamelliphora Todaro, 2013",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,lamelliphora,12,26,Todaro,1,2013,M,M2,Latin+Greek,Marine
+"Macrodasys ommatus Todaro, Leasi, 2013",Macrodasyida,Macrodasyidae,Macrodasys,10,ommatus,7,17,"Todaro, Leasi",2,2013,M,M1,Greek,Marine
+"Tetranchyroderma oblongum Lee, Kim, Chang, 2013",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,oblongum,8,24,"Lee, Kim, Chang",3,2013,M,M1,Latin,Marine
+"Dichaetura filispina Suzuki, Maeda, Furuya, 2013",Paucitubulatina,Dichaeturidae,Dichaetura,10,filispina,9,19,"Suzuki, Maeda, Furuya",3,2013,M,M2,Latin+Greek,Freshwater
+"Kijanebalola devestiva Todaro, Perissinotto, Bownes, 2013",Paucitubulatina,Neogosseidae,Kijanebalola,12,devestiva,9,21,"Todaro, Perissinotto, Bownes",3,2013,M,M1,Latin,Freshwater
+"Tetranchyroderma anisoankyrum Lee, Kim, Chang, 2013",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,anisoankyrum,12,28,"Lee, Kim, Chang",3,2013,M,M2,Greek,Marine
+"Lepidodermella acantholepida Suzuki, Maeda, Furuya, 2013",Paucitubulatina,Chaetonotidae,Lepidodermella,14,acantholepida,13,27,"Suzuki, Maeda, Furuya",3,2013,M,M2,Latin,Freshwater
+"Chaetonotus rhombosquamatus Kolicka, Kisielewski, Nesteruk, Zawierucha, 2013",Paucitubulatina,Chaetonotidae,Chaetonotus,11,rhombosquamatus,15,26,"Kolicka, Kisielewski, Nesteruk, Zawierucha",4,2013,M,M2,Latin,Freshwater
+"Chaetonotus pravus Kolicka, Kisielewski, Nesteruk, Zawierucha, 2013",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pravus,6,17,"Kolicka, Kisielewski, Nesteruk, Zawierucha",4,2013,M,M2,Latin,Freshwater
+"Chaetonotus eximius Kolicka, Kisielewski, Nesteruk, Zawierucha, 2013",Paucitubulatina,Chaetonotidae,Chaetonotus,11,eximius,7,18,"Kolicka, Kisielewski, Nesteruk, Zawierucha",4,2013,M,M1,Latin,Freshwater
+"Bifidochaetus veronicae (Kånneby, 2013)",Paucitubulatina,Chaetonotidae,Bifidochaetus,13,veronicae,9,22,Kånneby,1,2013,P,P1,Latin,Freshwater
+"Lepidodasys ligni Hochberg, Atherton, Gross, 2013",Macrodasyida,Lepidodasyidae,Lepidodasys,11,ligni,5,16,"Hochberg, Atherton, Gross",3,2013,P,P2,Latin,Marine
+"Diplodasys rothei Kieneke, Narkus, Hochberg, Schmidt-Rhaesa, 2013",Macrodasyida,Thaumastodermatidae,Diplodasys,10,rothei,6,16,"Kieneke, Narkus, Hochberg, Schmidt-Rhaesa",4,2013,P,P1,Latin,Marine
+"Tetranchyroderma pinnatum Lee, 2012",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,pinnatum,8,24,Lee,1,2012,M,M2,Latin,Marine
+"Acanthodasys ericinus Lee, 2012",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,ericinus,8,20,Lee,1,2012,M,M1,Latin,Marine
+"Dendrodasys duplus Lee, 2012",Macrodasyida,Dactylopodolidae,Dendrodasys,11,duplus,6,17,Lee,1,2012,M,M2,Latin,Marine
+"Pseudostomella dolichopoda Todaro, 2012",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,dolichopoda,11,25,Todaro,1,2012,M,M2,Greek,Marine
+"Acanthodasys comtus Lee, 2012",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,comtus,6,18,Lee,1,2012,M,M2,Latin,Marine
+"Acanthodasys paurocactus Atherton, Hochberg, 2012",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,paurocactus,11,23,"Atherton, Hochberg",2,2012,M,M1,Greek,Marine
+"Tetranchyroderma megabitubulatum Lee, Chang, 2012",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,megabitubulatum,15,31,"Lee, Chang",2,2012,M,M2,Greek,Marine
+"Tetranchyroderma insolitum Lee, Chang, 2012",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,insolitum,9,25,"Lee, Chang",2,2012,M,M1,Latin,Marine
+"Tetranchyroderma bronchostylus Atherton, Hochberg, 2012",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,bronchostylus,13,29,"Atherton, Hochberg",2,2012,M,M2,Greek,Marine
+"Tetranchyroderma aethesbregmum Lee, Chang, 2012",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,aethesbregmum,13,29,"Lee, Chang",2,2012,M,M2,Greek,Marine
+"Crasiella clauseni Lee, Chang, 2012",Macrodasyida,Planodasyidae,Crasiella,9,clauseni,8,17,"Lee, Chang",2,2012,P,P1,Latin,Marine
+"Heterolepidoderma joermungandri Kånneby, 2011",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,joermungandri,13,30,Kånneby,1,2011,C,C,Old Norse Latinisation,Freshwater
+"Cephalodasys saegailus Hummon, 2011",Macrodasyida,Cephalodasyidae,Cephalodasys,12,saegailus,9,21,Hummon,1,2011,E,E2,Greek,Marine
+"Tetranchyroderma corallium Hummon, 2011",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,corallium,9,25,Hummon,1,2011,E,E3,Latin,Marine
+"Heterolepidoderma acidophilum Kånneby, Todaro, Jondelius, 2011",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,acidophilum,11,28,"Kånneby, Todaro, Jondelius",3,2011,E,E1,Latin+Greek,Freshwater
+"Tetranchyroderma sinaiensis Hummon, 2011",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,sinaiensis,10,26,Hummon,1,2011,G,G2,Latin,Marine
+"Dendrodasys rubomarinus Hummon, 2011",Macrodasyida,Dactylopodolidae,Dendrodasys,11,rubomarinus,11,22,Hummon,1,2011,G,G1,Latin,Marine
+"Paraturbanella levantia Hummon, 2011",Macrodasyida,Turbanellidae,Paraturbanella,14,levantia,8,22,Hummon,1,2011,G,G2,Latin,Marine
+"Turbanella erythrothalassia Hummon, 2011",Macrodasyida,Turbanellidae,Turbanella,10,erythrothalassia,16,26,Hummon,1,2011,G,G1,Greek,Marine
+"Lepidodasys tsushimaensis Lee, Chang, 2011",Macrodasyida,Lepidodasyidae,Lepidodasys,11,tsushimaensis,13,24,"Lee, Chang",2,2011,G,G1,Latin,Marine
+"Chaetonotus machikanensis Sudzuki, Furuya, 2011",Paucitubulatina,Chaetonotidae,Chaetonotus,11,machikanensis,13,24,"Sudzuki, Furuya",2,2011,G,G1,Japanese Latinisation,Freshwater
+"Turbanella amphiatlantica Hummon, Kelly, 2011",Macrodasyida,Turbanellidae,Turbanella,10,amphiatlantica,14,24,"Hummon, Kelly",2,2011,G,G1,Greek,Marine
+"Halichaetonotus sanctaeluciae Todaro, Dal Zotto, Bownes, Perissinotto, 2011",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,sanctaeluciae,13,28,"Todaro, Dal Zotto, Bownes, Perissinotto",4,2011,G,G2,Latin,Marine
+"Tetranchyroderma xenodactylum Hummon, 2011",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,xenodactylum,12,28,Hummon,1,2011,M,M2,Greek,Marine
+"Heterolepidoderma trapezoidum Kånneby, 2011",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,trapezoidum,11,28,Kånneby,1,2011,M,M1,Greek,Freshwater
+"Urodasys toxostylus Hummon, 2011",Macrodasyida,Urodasyidae,Urodasys,8,toxostylus,10,18,Hummon,1,2011,M,M2,Greek,Marine
+"Macrodasys scleracrus Hummon, 2011",Macrodasyida,Macrodasyidae,Macrodasys,10,scleracrus,10,20,Hummon,1,2011,M,M2,Greek,Marine
+"Tetranchyroderma rhopalotum Hummon, 2011",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,rhopalotum,10,26,Hummon,1,2011,M,M2,Greek,Marine
+"Macrodasys nigrocellus Hummon, 2011",Macrodasyida,Macrodasyidae,Macrodasys,10,nigrocellus,11,21,Hummon,1,2011,M,M2,Latin,Marine
+"Macrodasys macrurus Hummon, 2011",Macrodasyida,Macrodasyidae,Macrodasys,10,macrurus,8,18,Hummon,1,2011,M,M2,Greek,Marine
+"Macrodasys imbricatus Hummon, 2011",Macrodasyida,Macrodasyidae,Macrodasys,10,imbricatus,10,20,Hummon,1,2011,M,M2,Latin,Marine
+"Cephalodasys dolichosomus Hummon, 2011",Macrodasyida,Cephalodasyidae,Cephalodasys,12,dolichosomus,12,24,Hummon,1,2011,M,M1,Greek,Marine
+"Chaetonotus retiformis Suzuki, Furuya, 2011",Paucitubulatina,Chaetonotidae,Chaetonotus,11,retiformis,10,21,"Suzuki, Furuya",2,2011,M,M1,Latin,Freshwater
+"Lepidodasys worsaae Hochberg, Atherton, 2011",Macrodasyida,Lepidodasyidae,Lepidodasys,11,worsaae,7,18,"Hochberg, Atherton",2,2011,P,P1,Latin,Marine
+"Halichaetonotus susi Hummon, 2010",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,susi,4,19,Hummon,1,2010,C,C,Latin,Marine
+"Halichaetonotus euromarinus Hummon, Todaro, 2010",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,euromarinus,11,26,"Hummon, Todaro",2,2010,E / G,E1 / G2,Latin,Marine
+"Crasiella skaia Hummon, 2010",Macrodasyida,Planodasyidae,Crasiella,9,skaia,5,14,Hummon,1,2010,G,G1,Greek,Marine
+"Paraturbanella sanjuanensis Hummon, 2010",Macrodasyida,Turbanellidae,Paraturbanella,14,sanjuanensis,12,26,Hummon,1,2010,G,G1,Latin,Marine
+"Mesodasys saddlebackensis Hummon, 2010",Macrodasyida,Cephalodasyidae,Mesodasys,9,saddlebackensis,15,24,Hummon,1,2010,G,G1,Latin,Marine
+"Thaumastoderma antarctica Kieneke, 2010",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,antarctica,10,24,Kieneke,1,2010,G,G1,Latin,Marine
+"Acanthodasys caribbeanensis Hochberg, Atherton, 2010",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,caribbeanensis,14,26,"Hochberg, Atherton",2,2010,G,G1,Arawakan Latinisation,Marine
+"Macrodasys syringodes Hummon, 2010",Macrodasyida,Macrodasyidae,Macrodasys,10,syringodes,10,20,Hummon,1,2010,M,M2,Greek,Marine
+"Chaetonotus semihamus Hummon, 2010",Paucitubulatina,Chaetonotidae,Chaetonotus,11,semihamus,9,20,Hummon,1,2010,M,M2,Latin,Marine
+"Chaetonotus polyhybus Hummon, 2010",Paucitubulatina,Chaetonotidae,Chaetonotus,11,polyhybus,9,20,Hummon,1,2010,M,M2,Greek,Marine
+"Macrodasys gylius Hummon, 2010",Macrodasyida,Macrodasyidae,Macrodasys,10,gylius,6,16,Hummon,1,2010,M,M2,Greek,Marine
+"Chaetonotus eratus Hummon, 2010",Paucitubulatina,Chaetonotidae,Chaetonotus,11,eratus,6,17,Hummon,1,2010,M,M1,Greek,Marine
+"Chaetonotus elachysomus Hummon, 2010",Paucitubulatina,Chaetonotidae,Chaetonotus,11,elachysomus,11,22,Hummon,1,2010,M,M1,Greek,Marine
+"Paraturbanella dolichodema Hummon, 2010",Macrodasyida,Turbanellidae,Paraturbanella,14,dolichodema,11,25,Hummon,1,2010,M,M1,Greek,Marine
+"Tetranchyroderma copicirratum Hummon, 2010",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,copicirratum,12,28,Hummon,1,2010,M,M1,Latin,Marine
+"Heterolepidoderma baium Hummon, 2010",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,baium,5,22,Hummon,1,2010,M,M1,Greek,Marine
+"Oregodasys cirratus Rothe, Schmidt-Rhaesa, 2010",Macrodasyida,Thaumastodermatidae,Oregodasys,10,cirratus,8,18,"Rothe, Schmidt-Rhaesa",2,2010,M,M2,Latin,Marine
+"Tetranchyroderma antenniphorum Hummon, Todaro, 2010",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,antenniphorum,13,29,"Hummon, Todaro",2,2010,M,M2,Latin+Greek,Marine
+"Tetranchyroderma aapton Dal Zotto, Ghiviriga, Todaro, 2010",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,aapton,6,22,"Dal Zotto, Ghiviriga, Todaro",3,2010,M,M1,Greek,Marine
+"Turbanella wieseri Hummon, 2010",Macrodasyida,Turbanellidae,Turbanella,10,wieseri,7,17,Hummon,1,2010,P,P1,Latin,Marine
+"Oregodasys norenburgi Hochberg, 2010",Macrodasyida,Thaumastodermatidae,Oregodasys,10,norenburgi,10,20,Hochberg,1,2010,P,P1,Latin,Marine
+"Oregodasys katharinae Hochberg, 2010",Macrodasyida,Thaumastodermatidae,Oregodasys,10,katharinae,10,20,Hochberg,1,2010,P,P1,Latin,Marine
+"Diplodasys sanctimariae Hummon, Todaro, 2009",Macrodasyida,Thaumastodermatidae,Diplodasys,10,sanctimariae,12,22,"Hummon, Todaro",2,2009,G,G2,Latin,Marine
+"Tetranchyroderma mainensis Hummon, Guadiz, 2009",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,mainensis,9,25,"Hummon, Guadiz",2,2009,G,G2,Latin,Marine
+"Ichthydium skandicum Kånneby, Todaro, Jondelius, 2009",Paucitubulatina,Chaetonotidae,Ichthydium,10,skandicum,9,19,"Kånneby, Todaro, Jondelius",3,2009,G,G2,Swedish,Freshwater
+"Ptychostomella jejuensis Lee, Hwang, Chang, 2009",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,jejuensis,9,23,"Lee, Hwang, Chang",3,2009,G,G1,Latin,Marine
+"Tetranchyroderma parapapii Hummon, 2009",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,parapapii,9,25,Hummon,1,2009,M,M3,Latin,Marine
+"Tetranchyroderma oligopentancrum Hummon, Todaro, 2009",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,oligopentancrum,15,31,"Hummon, Todaro",2,2009,M,M2,Greek,Marine
+"Tetranchyroderma korynetum Hummon, Todaro, 2009",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,korynetum,9,25,"Hummon, Todaro",2,2009,M,M2,Greek,Marine
+"Tetranchyroderma hyponiglarum Hummon, Todaro, 2009",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hyponiglarum,12,28,"Hummon, Todaro",2,2009,M,M2,Greek,Marine
+"Acanthodasys flabellicaudus Hummon, Todaro, 2009",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,flabellicaudus,14,26,"Hummon, Todaro",2,2009,M,M2,Latin,Marine
+"Macrodasys digronus Hummon, Todaro, 2009",Macrodasyida,Macrodasyidae,Macrodasys,10,digronus,8,18,"Hummon, Todaro",2,2009,M,M2,Greek,Marine
+"Macrodasys acrosorus Hummon, Todaro, 2009",Macrodasyida,Macrodasyidae,Macrodasys,10,acrosorus,9,19,"Hummon, Todaro",2,2009,M,M2,Greek,Marine
+"Heterolepidoderma caudosquamatum Grilli, Kristensen, Balsamo, 2009",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,caudosquamatum,14,31,"Grilli, Kristensen, Balsamo",3,2009,M,M2,Latin,Marine
+"Aspidiophorus oculatus Todaro, Dal Zotto, Maiorova, Adrianov, 2009",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,oculatus,8,21,"Todaro, Dal Zotto, Maiorova, Adrianov",4,2009,M,M2,Latin,Marine
+"Turbanella mikrogada Hummon, 2008",Macrodasyida,Turbanellidae,Turbanella,10,mikrogada,9,19,Hummon,1,2008,C,C,Greek,Marine
+"Tetranchyroderma interstitialis Hummon, 2008",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,interstitialis,14,30,Hummon,1,2008,E,E3,Latin,Marine
+"Turbanella scilloniensis Hummon, 2008",Macrodasyida,Turbanellidae,Turbanella,10,scilloniensis,13,23,Hummon,1,2008,G,G1,Latin,Marine
+"Halichaetonotus polonense Hummon, 2008",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,polonense,9,24,Hummon,1,2008,G,G2,Latin,Marine
+"Kryptodasys nobskaensis (Hummon, 2008)",Macrodasyida,Macrodasyidae,Kryptodasys,11,nobskaensis,11,22,Hummon,1,2008,G,G2,Latin,Marine
+"Thaumastoderma natlanticum Hummon, 2008",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,natlanticum,11,25,Hummon,1,2008,G,G1,Latin,Marine
+"Paraturbanella manxensis Hummon, 2008",Macrodasyida,Turbanellidae,Paraturbanella,14,manxensis,9,23,Hummon,1,2008,G,G1,Latin,Marine
+"Tetranchyroderma lameshurensis Hummon, 2008",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,lameshurensis,13,29,Hummon,1,2008,G,G1,Latin,Marine
+"Macrodasys lakshadweepense Hummon, 2008",Macrodasyida,Macrodasyidae,Macrodasys,10,lakshadweepense,15,25,Hummon,1,2008,G,G1,Latin,Marine
+"Oregodasys kurnowensis Hummon, 2008",Macrodasyida,Thaumastodermatidae,Oregodasys,10,kurnowensis,11,21,Hummon,1,2008,G,G2,Latin,Marine
+"Dinodasys delawarensis Hummon, 2008",Macrodasyida,Turbanellidae,Dinodasys,9,delawarensis,12,21,Hummon,1,2008,G,G2,Latin,Marine
+"Kryptodasys celticus (Hummon, 2008)",Macrodasyida,Macrodasyidae,Kryptodasys,11,celticus,8,19,Hummon,1,2008,G,G2,Latin,Marine
+"Acanthodasys carolinensis Hummon, 2008",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,carolinensis,12,24,Hummon,1,2008,G,G2,Latin,Marine
+"Turbanella caledoniensis Hummon, 2008",Macrodasyida,Turbanellidae,Turbanella,10,caledoniensis,13,23,Hummon,1,2008,G,G2,Latin,Marine
+"Mesodasys brittanica Hummon, 2008",Macrodasyida,Cephalodasyidae,Mesodasys,9,brittanica,10,19,Hummon,1,2008,G,G1,Latin,Marine
+"Crasiella azorrensis Hummon, 2008",Macrodasyida,Planodasyidae,Crasiella,9,azorrensis,10,19,Hummon,1,2008,G,G1,Latin,Marine
+"Acanthodasys algarvense Hummon, 2008",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,algarvense,10,22,Hummon,1,2008,G,G2,Portuguese Latinisation,Marine
+"Pseudostomella triancra Hummon, 2008",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,triancra,8,22,Hummon,1,2008,M,M2,Latin,Marine
+"Macrodasys plurosorus Hummon, 2008",Macrodasyida,Macrodasyidae,Macrodasys,10,plurosorus,10,20,Hummon,1,2008,M,M2,Greek,Marine
+"Paraturbanella pediballetor Hummon, 2008",Macrodasyida,Turbanellidae,Paraturbanella,14,pediballetor,12,26,Hummon,1,2008,M,M1,Latin,Marine
+"Thaumastoderma minancrum Hummon, 2008",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,minancrum,9,23,Hummon,1,2008,M,M2,Latin,Marine
+"Tetranchyroderma longipedum Hummon, 2008",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,longipedum,10,26,Hummon,1,2008,M,M2,Latin,Marine
+"Tetranchyroderma gancrum Hummon, 2008",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,gancrum,7,23,Hummon,1,2008,M,M2,Greek,Marine
+"Paradasys bilobocaudus Hummon, 2008",Macrodasyida,Redudasyidae,Paradasys,9,bilobocaudus,12,21,Hummon,1,2008,M,M2,Latin,Marine
+"Cephalodasys swedmarki Hummon, 2008",Macrodasyida,Cephalodasyidae,Cephalodasys,12,swedmarki,9,21,Hummon,1,2008,P,P1,Latin,Marine
+"Mesodasys rupperti Hummon, 2008",Macrodasyida,Cephalodasyidae,Mesodasys,9,rupperti,8,17,Hummon,1,2008,P,P2,Latin,Marine
+"Tetranchyroderma adeleae Hochberg, 2008",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,adeleae,7,23,Hochberg,1,2008,P,P4,German Latinisation,Marine
+"Desmodasys abyssalis Kieneke, Zekely, 2007",Macrodasyida,Turbanellidae,Desmodasys,10,abyssalis,9,19,"Kieneke, Zekely",2,2007,E,E2,Greek,Marine
+"Pseudostomella cheraensis Priyalakshmi, Menon, Todaro, 2007",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,cheraensis,10,24,"Priyalakshmi, Menon, Todaro",3,2007,G,G2,Latin,Marine
+"Xenotrichula paralineata Hummon, Todaro, 2007",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,paralineata,11,23,"Hummon, Todaro",2,2007,M,M1,Latin,Marine
+"Tetranchyroderma multicirratum Lee, Chang, 2007",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,multicirratum,13,29,"Lee, Chang",2,2007,M,M2,Latin,Marine
+"Tetranchyroderma monokerosum Lee, Chang, 2007",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,monokerosum,11,27,"Lee, Chang",2,2007,M,M2,Greek,Marine
+"Tetranchyroderma australiense Nicholas, Todaro, 2006",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,australiense,12,28,"Nicholas, Todaro",2,2006,G,G1,Latin,Marine
+"Tetranchyroderma pentaspersus Nicholas, Todaro, 2006",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,pentaspersus,12,28,"Nicholas, Todaro",2,2006,M,M2,Latin,Marine
+"Xenodasys eknomios Todaro, Guidi, Leasi, Tongiorgi, 2006",Macrodasyida,Xenodasyidae,Xenodasys,9,eknomios,8,17,"Todaro, Guidi, Leasi, Tongiorgi",4,2006,M,M1,Greek,Marine
+"Halichaetonotus australis Nicholas, Todaro, 2005",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,australis,9,24,"Nicholas, Todaro",2,2005,G,G1,Latin,Marine
+"Diuronotus aspetos Todaro, Balsamo, Kristensen, 2005",Paucitubulatina,Chaetonotidae,Diuronotus,10,aspetos,7,17,"Todaro, Balsamo, Kristensen",3,2005,M,M1,Greek,Marine
+"Polymerurus andreae Hochberg, 2005",Paucitubulatina,Chaetonotidae,Polymerurus,11,andreae,7,18,Hochberg,1,2005,P,P1,Latin,Freshwater
+"Diuronotus rupperti Todaro, Balsamo, Kristensen, 2005",Paucitubulatina,Chaetonotidae,Diuronotus,10,rupperti,8,18,"Todaro, Balsamo, Kristensen",3,2005,P,P1,Latin,Marine
+"Neogossea fasciculata d'Hondt, Pourriot, Rougier, Guiral, 2005",Paucitubulatina,Neogosseidae,Neogossea,9,fasciculata,11,20,"d'Hondt, Pourriot, Rougier, Guiral",4,2005,P,P1,Latin,Freshwater
+"Pseudostomella faroensis Clausen, 2004",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,faroensis,9,23,Clausen,1,2004,G,G1,Latin,Marine
+"Tetranchyroderma faroense Clausen, 2004",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,faroense,8,24,Clausen,1,2004,G,G1,Latin,Marine
+"Acanthodasys fibrosus Clausen, 2004",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,fibrosus,8,20,Clausen,1,2004,M,M2,Latin,Marine
+"Lepidodasys castoroides Clausen, 2004",Macrodasyida,Lepidodasyidae,Lepidodasys,11,castoroides,11,22,Clausen,1,2004,M,M3,Latin,Marine
+"Lepidodasys arcolepis Clausen, 2004",Macrodasyida,Lepidodasyidae,Lepidodasys,11,arcolepis,9,20,Clausen,1,2004,M,M2,Latin+Greek,Marine
+"Thaumastoderma moebjergi Clausen, 2004",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,moebjergi,9,23,Clausen,1,2004,P,P1,Latin,Marine
+"Ptychostomella higginsi Clausen, 2004",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,higginsi,8,22,Clausen,1,2004,P,P1,Latin,Marine
+"Macrodasys fornerisae Todaro, Rocha, 2004",Macrodasyida,Macrodasyidae,Macrodasys,10,fornerisae,10,20,"Todaro, Rocha",2,2004,P,P2,Latin,Marine
+"Dactylopodola australiensis Hochberg, 2003",Macrodasyida,Dactylopodolidae,Dactylopodola,13,australiensis,13,26,Hochberg,1,2003,G,G1,Latin,Marine
+"Ptychostomella orientalis Lee, Chang, 2003",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,orientalis,10,24,"Lee, Chang",2,2003,G,G2,Latin,Marine
+"Tetranchyroderma canariense Todaro, Ancona, Marzano, Gallo-D'Addabbo, De Zio-Grimaldi, 2003",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,canariense,10,26,"Todaro, Ancona, Marzano, Gallo-D'Addabbo, De Zio-Grimaldi",5,2003,G,G1,Latin,Marine
+"Anandrodasys agadasys (Hochberg, 2003)",Macrodasyida,Redudasyidae,Anandrodasys,12,agadasys,8,20,Hochberg,1,2003,M,M2,Greek,Marine
+"Ptychostomella papillata Lee, Chang, 2003",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,papillata,9,23,"Lee, Chang",2,2003,M,M2,Latin,Marine
+"Paraturbanella stradbroki Hochberg, 2002",Macrodasyida,Turbanellidae,Paraturbanella,14,stradbroki,10,24,Hochberg,1,2002,G,G1,Latin,Marine
+"Pseudostomella koreana Lee, Chang, 2002",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,koreana,7,21,"Lee, Chang",2,2002,G,G2,Latin,Marine
+"Pseudostomella megapalpator Hochberg, 2002",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,megapalpator,12,26,Hochberg,1,2002,M,M2,Greek,Marine
+"Pseudostomella longifurca Lee, Chang, 2002",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,longifurca,10,24,"Lee, Chang",2,2002,M,M2,Latin,Marine
+"Tetranchyroderma schizocirratum Chang, Kubota, Shirayama, 2002",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,schizocirratum,14,30,"Chang, Kubota, Shirayama",3,2002,M,M2,Latin+Greek,Marine
+"Tetranchyroderma inaequitubulatum Todaro, Balsamo, Tongiorgi, 2002",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,inaequitubulatum,16,32,"Todaro, Balsamo, Tongiorgi",3,2002,M,M2,Latin,Marine
+"Thaumastoderma clandestinum Chang, Kubota, Shirayama, 2002",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,clandestinum,12,26,"Chang, Kubota, Shirayama",3,2002,M,M2,Latin,Marine
+"Tetranchyroderma weissi Todaro, 2002",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,weissi,6,22,Todaro,1,2002,P,P1,Latin,Marine
+"Pseudostomella klauserae Hochberg, 2002",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,klauserae,9,23,Hochberg,1,2002,P,P1,Latin,Marine
+"Oregodasys itoi (Chang, Kubota, Shirayama, 2002)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,itoi,4,14,Chang,1,2002,P,P1,Latin,Marine
+"Turbanella brusci Hochberg, 2002",Macrodasyida,Turbanellidae,Turbanella,10,brusci,6,16,Hochberg,1,2002,P,P1,Latin,Marine
+"Tetranchyroderma heterotentaculatum Chang, Lee, 2001",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,heterotentaculatum,18,34,"Chang, Lee",2,2001,M,M2,Latin,Marine
+"Tetranchyroderma hoonsooi Chang, Lee, 2001",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hoonsooi,8,24,"Chang, Lee",2,2001,P,P1,Latin,Marine
+"Urodasys anorektoxys Todaro, Bernhard, Hummon, 2000",Macrodasyida,Urodasyidae,Urodasys,8,anorektoxys,11,19,"Todaro, Bernhard, Hummon",3,2000,E,E3,Greek,Marine
+"Desmodasys borealis Clausen, 2000",Macrodasyida,Turbanellidae,Desmodasys,10,borealis,8,18,Clausen,1,2000,G,G1,Latin,Marine
+"Tetranchyroderma boreale Clausen, 2000",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,boreale,7,23,Clausen,1,2000,G,G1,Latin,Marine
+"Tetranchyroderma arcticum Clausen, 2000",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,arcticum,8,24,Clausen,1,2000,G,G1,Greek,Marine
+"Acanthodasys lineatus Clausen, 2000",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,lineatus,8,20,Clausen,1,2000,M,M2,Latin,Marine
+"Ptychostomella lepidota Clausen, 2000",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,lepidota,8,22,Clausen,1,2000,M,M2,Greek,Marine
+"Tetranchyroderma bulbosum Clausen, 2000",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,bulbosum,8,24,Clausen,1,2000,M,M2,Latin,Marine
+"Urodasys apuliensis Fregni, Faienza, Grimaldi, Tongiorgi, Balsamo, 1999",Macrodasyida,Urodasyidae,Urodasys,8,apuliensis,10,18,"Fregni, Faienza, Grimaldi, Tongiorgi, Balsamo",5,1999,G,G2,Latin,Marine
+"Chaetonotus ichthydioides Tongiorgi, Fregni, Balsamo, 1999",Paucitubulatina,Chaetonotidae,Chaetonotus,11,ichthydioides,13,24,"Tongiorgi, Fregni, Balsamo",3,1999,M,M3,Latin,Brackish
+"Urodasys bucinastylis Fregni, Faienza, Grimaldi, Tongiorgi, Balsamo, 1999",Macrodasyida,Urodasyidae,Urodasys,8,bucinastylis,12,20,"Fregni, Faienza, Grimaldi, Tongiorgi, Balsamo",5,1999,M,M2,Latin+Greek,Marine
+"Aspidiophorus pori Kisielewski, 1999",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,pori,4,17,Kisielewski,1,1999,P,P1,Hebrew Latinisation,Freshwater
+"Chaetonotus pawlowskii Kisielewski, 1999",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pawlowskii,10,21,Kisielewski,1,1999,P,P1,Aramaic Latinisation,Freshwater
+"Heterolepidoderma dimentmani Kisielewski, 1999",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,dimentmani,10,27,Kisielewski,1,1999,P,P1,Latin,Freshwater
+"Urodasys uncinostylis Fregni, Tongiorgi, Faienza, 1998",Macrodasyida,Urodasyidae,Urodasys,8,uncinostylis,12,20,"Fregni, Tongiorgi, Faienza",3,1998,M,M2,Latin+Greek,Marine
+"Tetranchyroderma gracilium Chang, Lee, Clausen, 1998",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,gracilium,9,25,"Chang, Lee, Clausen",3,1998,M,M1,Latin,Marine
+"Thaumastoderma coronarium Chang, Lee, Clausen, 1998",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,coronarium,10,24,"Chang, Lee, Clausen",3,1998,M,M2,Latin,Marine
+"Thaumastoderma copiophorum Chang, Lee, Clausen, 1998",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,copiophorum,11,25,"Chang, Lee, Clausen",3,1998,M,M2,Latin,Marine
+"Thaumastoderma appendiculatum Chang, Lee, Clausen, 1998",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,appendiculatum,14,28,"Chang, Lee, Clausen",3,1998,M,M2,Latin,Marine
+"Urodasys acanthostylis Fregni, Tongiorgi, Faienza, 1998",Macrodasyida,Urodasyidae,Urodasys,8,acanthostylis,13,21,"Fregni, Tongiorgi, Faienza",3,1998,M,M2,Greek,Marine
+"Tetranchyroderma symphorochetum Hummon, Todaro, Tongiorgi, Balsamo, 1998",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,symphorochetum,14,30,"Hummon, Todaro, Tongiorgi, Balsamo",4,1998,M,M2,Greek,Marine
+"Tetranchyroderma psilotopum Hummon, Todaro, Tongiorgi, Balsamo, 1998",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,psilotopum,10,26,"Hummon, Todaro, Tongiorgi, Balsamo",4,1998,M,M2,Greek,Marine
+"Dactylopodola mesotyphle Hummon, Todaro, Tongiorgi, Balsamo, 1998",Macrodasyida,Dactylopodolidae,Dactylopodola,13,mesotyphle,10,23,"Hummon, Todaro, Tongiorgi, Balsamo",4,1998,M,M3,Greek,Marine
+"Tetranchyroderma aphenothigmum Hummon, Todaro, Tongiorgi, Balsamo, 1998",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,aphenothigmum,13,29,"Hummon, Todaro, Tongiorgi, Balsamo",4,1998,M,M2,Greek,Marine
+"Chaetonotus mediterraneus Balsamo, Hummon, Todaro, Tongiorgi, 1997",Paucitubulatina,Chaetonotidae,Chaetonotus,11,mediterraneus,13,24,"Balsamo, Hummon, Todaro, Tongiorgi",4,1997,G,G1,Latin,Marine
+"Chaetonotus magnificus Balsamo, Hummon, Todaro, Tongiorgi, 1997",Paucitubulatina,Chaetonotidae,Chaetonotus,11,magnificus,10,21,"Balsamo, Hummon, Todaro, Tongiorgi",4,1997,M,M1,Latin,Marine
+"Aspidiophorus lamellophorus Balsamo, Hummon, Todaro, Tongiorgi, 1997",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,lamellophorus,13,26,"Balsamo, Hummon, Todaro, Tongiorgi",4,1997,M,M2,Latin,Marine
+"Chaetonotus balsamoae Kisielewski, 1997",Paucitubulatina,Chaetonotidae,Chaetonotus,11,balsamoae,9,20,Kisielewski,1,1997,P,P1,Italian Latinisation,Freshwater
+"Paraturbanella scanica Clausen, 1996",Macrodasyida,Turbanellidae,Paraturbanella,14,scanica,7,21,Clausen,1,1996,G,G2,Proto-Germanic,Marine
+"Tetranchyroderma norvegicum Clausen, 1996",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,norvegicum,10,26,Clausen,1,1996,G,G2,Latin,Marine
+"Ptychostomella bergensis Clausen, 1996",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,bergensis,9,23,Clausen,1,1996,G,G2,Latin,Marine
+"Tetranchyroderma tanymesatherum Hummon, Todaro, Balsamo, Tongiorgi, 1996",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,tanymesatherum,14,30,"Hummon, Todaro, Balsamo, Tongiorgi",4,1996,M,M2,Greek,Marine
+"Tetranchyroderma polyprobolostomum Hummon, Todaro, Balsamo, Tongiorgi, 1996",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,polyprobolostomum,17,33,"Hummon, Todaro, Balsamo, Tongiorgi",4,1996,M,M2,Greek,Marine
+"Tetranchyroderma kontosomum Hummon, Todaro, Balsamo, Tongiorgi, 1996",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,kontosomum,10,26,"Hummon, Todaro, Balsamo, Tongiorgi",4,1996,M,M1,Greek,Marine
+"Tetranchyroderma anomalopsum Hummon, Todaro, Balsamo, Tongiorgi, 1996",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,anomalopsum,11,27,"Hummon, Todaro, Balsamo, Tongiorgi",4,1996,M,M2,Greek,Marine
+"Chaetonotus naiadis Balsamo, Todaro, 1995",Paucitubulatina,Chaetonotidae,Chaetonotus,11,naiadis,7,18,"Balsamo, Todaro",2,1995,C,C,Latin,Freshwater
+"Chaetonotus daphnes Balsamo, Todaro, 1995",Paucitubulatina,Chaetonotidae,Chaetonotus,11,daphnes,7,18,"Balsamo, Todaro",2,1995,C,C,Latin,Freshwater
+"Chaetonotus arethusae Balsamo, Todaro, 1995",Paucitubulatina,Chaetonotidae,Chaetonotus,11,arethusae,9,20,"Balsamo, Todaro",2,1995,C,C,Latin,Freshwater
+"Paraturbanella solitaria Todaro, 1995",Macrodasyida,Turbanellidae,Paraturbanella,14,solitaria,9,23,Todaro,1,1995,E,E3,Latin,Marine
+"Chaetonotus italicus Balsamo, Todaro, 1995",Paucitubulatina,Chaetonotidae,Chaetonotus,11,italicus,8,19,"Balsamo, Todaro",2,1995,G,G2,Latin,Freshwater
+"Chaetonotus benacensis Balsamo, Fregni,1995",Paucitubulatina,Chaetonotidae,Chaetonotus,11,benacensis,10,21,"Balsamo, Fregni",2,1995,G,G1,Italian Latinisation,Freshwater
+"Ichthydium squamigerum Balsamo, Fregni, 1995",Paucitubulatina,Chaetonotidae,Ichthydium,10,squamigerum,11,21,"Balsamo, Fregni",2,1995,M,M1,Latin,Freshwater
+"Ichthydium plicatum Balsamo, Fregni, 1995",Paucitubulatina,Chaetonotidae,Ichthydium,10,plicatum,8,18,"Balsamo, Fregni",2,1995,M,M1,Latin,Freshwater
+"Heterolepidoderma lamellatum Balsamo, Fregni, 1995",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,lamellatum,10,27,"Balsamo, Fregni",2,1995,M,M2,Latin,Freshwater
+"Ichthydium diacanthum Balsamo, Todaro, 1995",Paucitubulatina,Chaetonotidae,Ichthydium,10,diacanthum,10,20,"Balsamo, Todaro",2,1995,M,M2,Greek,Freshwater
+"Halichaetonotus genatus Balsamo, Fregni, Tongiorgi, 1995",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,genatus,7,22,"Balsamo, Fregni, Tongiorgi",3,1995,M,M2,Latin,Marine
+"Halichaetonotus clavicornis Balsamo, Fregni, Tongiorgi, 1995",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,clavicornis,11,26,"Balsamo, Fregni, Tongiorgi",3,1995,M,M2,Latin,Marine
+"Tetranchyroderma insulare Balsamo, Fregni, Tongiorgi, 1994",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,insulare,8,24,"Balsamo, Fregni, Tongiorgi",3,1994,E,E2,Latin,Marine
+"Heteroxenotrichula texana Todaro, 1994",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,texana,6,24,Todaro,1,1994,G,G2,Latin,Marine
+"Chaetonotus triacanthus Todaro, 1994",Paucitubulatina,Chaetonotidae,Chaetonotus,11,triacanthus,11,22,Todaro,1,1994,M,M2,Greek,Marine
+"Macrodasys stenocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,stenocytalis,12,22,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys meristocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,meristocytalis,14,24,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys dolichocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,dolichocytalis,14,24,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys deltocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,deltocytalis,12,22,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys blysocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,blysocytalis,12,22,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys ancocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,ancocytalis,11,21,Evans,1,1994,M,M2,Latin,Marine
+"Macrodasys achradocytalis Evans, 1994",Macrodasyida,Macrodasyidae,Macrodasys,10,achradocytalis,14,24,Evans,1,1994,M,M2,Latin,Marine
+"Lepidodasys unicarenatus Balsamo, Fregni, Tongiorgi, 1994",Macrodasyida,Lepidodasyidae,Lepidodasys,11,unicarenatus,12,23,"Balsamo, Fregni, Tongiorgi",3,1994,M,M2,Latin,Marine
+"Chaetonotus oplites Balsamo, Fregni, Tongiorgi, 1994",Paucitubulatina,Chaetonotidae,Chaetonotus,11,oplites,7,18,"Balsamo, Fregni, Tongiorgi",3,1994,M,M1,Greek,Freshwater
+"Planodasys littoralis Rao, 1993",Macrodasyida,Planodasyidae,Planodasys,10,littoralis,10,20,Rao,1,1993,E,E2,Latin,Marine
+"Pseudostomella andamanica Rao, 1993",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,andamanica,10,24,Rao,1,1993,G,G1,Latin,Marine
+"Macrodasys andamanensis Rao, 1993",Macrodasyida,Macrodasyidae,Macrodasys,10,andamanensis,12,22,Rao,1,1993,G,G1,Latin,Marine
+"Ptychostomella tyrrhenica Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,tyrrhenica,10,24,"Hummon, Todaro, Tongiorgi",3,1993,G,G1,Latin,Marine
+"Mesodasys ischiensis Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Cephalodasyidae,Mesodasys,9,ischiensis,10,19,"Hummon, Todaro, Tongiorgi",3,1993,G,G1,Latin,Marine
+"Pseudostomella etrusca Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,etrusca,7,21,"Hummon, Todaro, Tongiorgi",3,1993,G,G2,Latin,Marine
+"Tetranchyroderma tentaculatum Rao, 1993",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,tentaculatum,12,28,Rao,1,1993,M,M2,Latin,Marine
+"Dendropodola transitionalis Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Dactylopodolidae,Dendropodola,12,transitionalis,14,26,"Hummon, Todaro, Tongiorgi",3,1993,M,M3,Latin,Marine
+"Tetranchyroderma thysanophorum Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,thysanophorum,13,29,"Hummon, Todaro, Tongiorgi",3,1993,M,M2,Greek,Marine
+"Tetranchyroderma pachysomum Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,pachysomum,10,26,"Hummon, Todaro, Tongiorgi",3,1993,M,M1,Greek,Marine
+"Tetranchyroderma hypopsilancrum Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hypopsilancrum,14,30,"Hummon, Todaro, Tongiorgi",3,1993,M,M2,Greek,Marine
+"Tetranchyroderma heterotubulatum Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,heterotubulatum,15,31,"Hummon, Todaro, Tongiorgi",3,1993,M,M2,Latin+Greek,Marine
+"Cephalodasys hadrosomus Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Cephalodasyidae,Cephalodasys,12,hadrosomus,10,22,"Hummon, Todaro, Tongiorgi",3,1993,M,M1,Greek,Marine
+"Mesodasys adenotubulatus Hummon, Todaro, Tongiorgi, 1993",Macrodasyida,Cephalodasyidae,Mesodasys,9,adenotubulatus,14,23,"Hummon, Todaro, Tongiorgi",3,1993,M,M2,Greek,Marine
+"Halichaetonotus thalassopais Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,thalassopais,12,27,"Hummon, Balsamo, Todaro",3,1992,C,C,Greek,Marine
+"Halichaetonotus marivagus Balsamo, Todaro, Tongiorgi, 1992",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,marivagus,9,24,"Balsamo, Todaro, Tongiorgi",3,1992,E,E1,Latin,Marine
+"Chaetonotus siciliensis Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,siciliensis,11,22,"Hummon, Balsamo, Todaro",3,1992,G,G1,Latin,Marine
+"Tetranchyroderma sanctaecaterinae Todaro, Balsamo, Tongiorgi, 1992",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,sanctaecaterinae,16,32,"Todaro, Balsamo, Tongiorgi",3,1992,G,G2,Latin,Marine
+"Diplodasys meloriae Todaro, Balsamo, Tongiorgi, 1992",Macrodasyida,Thaumastodermatidae,Diplodasys,10,meloriae,8,18,"Todaro, Balsamo, Tongiorgi",3,1992,G,G1,Latin,Marine
+"Chaetonotus aegilonensis Balsamo, Todaro, Tongiorgi, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,aegilonensis,12,23,"Balsamo, Todaro, Tongiorgi",3,1992,G,G1,Greek,Marine
+"Acanthodasys silvulus Evans, 1992",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,silvulus,8,20,Evans,1,1992,M,M2,Latin,Marine
+"Chaetonotus sagittarius Evans, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,sagittarius,11,22,Evans,1,1992,M,M2,Latin,Marine
+"Chaetonotus lancearis Tretyakova, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,lancearis,9,20,Tretyakova,1,1992,M,M2,Latin,Freshwater
+"Chaetonotus dentatus Tretyakova, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dentatus,8,19,Tretyakova,1,1992,M,M2,Latin,Freshwater
+"Neodasys ciritus Evans, 1992",Multitubulatina,Neodasyidae,Neodasys,8,ciritus,7,15,Evans,1,1992,M,M2,Latin,Marine
+"Halichaetonotus bataceus Evans, 1992",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,bataceus,8,23,Evans,1,1992,M,M2,Latin,Marine
+"Paraturbanella aggregotubulata Evans, 1992",Macrodasyida,Turbanellidae,Paraturbanella,14,aggregotubulata,15,29,Evans,1,1992,M,M2,Latin,Marine
+"Tetranchyroderma quadritentaculatum Todaro, Balsamo, Tongiorgi, 1992",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,quadritentaculatum,18,34,"Todaro, Balsamo, Tongiorgi",3,1992,M,M2,Latin,Marine
+"Halichaetonotus etrolomus Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,etrolomus,9,24,"Hummon, Balsamo, Todaro",3,1992,M,M1,Greek,Marine
+"Chaetonotus apolemmus Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,apolemmus,9,20,"Hummon, Balsamo, Todaro",3,1992,M,M1,Greek,Marine
+"Chaetonotus apechochaetus Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,apechochaetus,13,24,"Hummon, Balsamo, Todaro",3,1992,M,M2,Greek,Marine
+"Chaetonotus vechovi Tretjakova, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,vechovi,7,18,Tretjakova,1,1992,P,P1,Latin,Freshwater
+"Chaetonotus mariae Todaro, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,mariae,6,17,Todaro,1,1992,P,P1,Italian Latinisation,Marine
+"Chaetonotus napoleonicus Balsamo, Todaro, Tongiorgi, 1992",Paucitubulatina,Chaetonotidae,Chaetonotus,11,napoleonicus,12,23,"Balsamo, Todaro, Tongiorgi",3,1992,P,P3,Latin,Marine
+"Halichaetonotus margaretae Hummon, Balsamo, Todaro, 1992",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,margaretae,10,25,"Hummon, Balsamo, Todaro",3,1992,P,P1,Latin,Marine
+"Aspidiophorus pleustonicus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,pleustonicus,12,25,Kisielewski,1,1991,E,E2,Greek,Freshwater
+"Tetranchyroderma paralittorale Rao, 1991",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,paralittorale,13,29,Rao,1,1991,E,E2,Latin,Marine
+"Lepidodermella amazonica Kisielewski,1991",Paucitubulatina,Chaetonotidae,Lepidodermella,14,amazonica,9,23,Kisielewski,1,1991,E,E2,Greek,Freshwater
+"Chaetonotus alni Nesteruk, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,alni,4,15,Nesteruk,1,1991,E,E2,Latin,Freshwater
+"Polymerurus squammofurcatus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Polymerurus,11,squammofurcatus,15,26,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Chaetonotus sanctipauli Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,sanctipauli,11,22,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Ornamentula paraensis Kisielewski, 1991",Paucitubulatina,Dasydytidae,Ornamentula,11,paraensis,9,20,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Undula paraensis Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Undula,6,paraensis,9,15,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Dasydytes nhumirimensis Kisielewski, 1991",Paucitubulatina,Dasydytidae,Dasydytes,9,nhumirimensis,13,22,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Chaetonotus lobo Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,lobo,4,15,Kisielewski,1,1991,G,G1,Brazilian Portuguese,Freshwater
+"Xenotrichula laccadivensis Rao, 1991",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,laccadivensis,13,25,Rao,1,1991,G,G1,Greek,Marine
+"Heterolepidoderma jureiense Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,jureiense,9,26,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Polymerurus corumbensis Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Polymerurus,11,corumbensis,11,22,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Lepidodermella broa Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Lepidodermella,14,broa,4,18,Kisielewski,1,1991,G,G1,Latin,Freshwater
+"Lepidochaetus Brazilense Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,Brazilense,10,23,Kisielewski,1,1991,G,G2,Latin,Freshwater
+"Turbanella aminensis Rao, 1991",Macrodasyida,Turbanellidae,Turbanella,10,aminensis,9,19,Rao,1,1991,G,G1,Latin,Marine
+"Heterolepidoderma famaillensis Grosso, Drahg, 1991",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,famaillensis,12,29,"Grosso, Drahg",2,1991,G,G2,Latin,Freshwater
+"Kijanebalola canina Kisielewski, 1991",Paucitubulatina,Neogosseidae,Kijanebalola,12,canina,6,18,Kisielewski,1,1991,I,I,Latin,Freshwater
+"Chaetonotus ventrochaetus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,ventrochaetus,13,24,Kisielewski,1,1991,M,M2,Latin+Greek,Freshwater
+"Thaumastoderma truncatum Clausen, 1991",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,truncatum,9,23,Clausen,1,1991,M,M2,Latin,Marine
+"Chaetonotus triradiatus Rao, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,triradiatus,11,22,Rao,1,1991,M,M2,Latin,Marine
+"Haltidytes squamosus Kisielewski, 1991",Paucitubulatina,Dasydytidae,Haltidytes,10,squamosus,9,19,Kisielewski,1,1991,M,M2,Latin,Freshwater
+"Lepidodermella spinifera Tretyakova, 1991",Paucitubulatina,Chaetonotidae,Lepidodermella,14,spinifera,9,23,Tretyakova,1,1991,M,M2,Latin,Freshwater
+"Chaetonotus pseudopolyspinosus Kisielewski,1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pseudopolyspinosus,18,29,Kisielewski,1,1991,M,M3,Latin,Freshwater
+"Chaetonotus paucisquamatus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,paucisquamatus,14,25,Kisielewski,1,1991,M,M1,Latin,Freshwater
+"Chaetonotus parafurcatus Nesteruk, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,parafurcatus,12,23,Nesteruk,1,1991,M,M2,Latin+Greek,Freshwater
+"Lepidodermella minor Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Lepidodermella,14,minor,5,19,Kisielewski,1,1991,M,M2,Latin+Greek,Freshwater
+"Dasydytes lamellatus Kisielewski, 1991",Paucitubulatina,Dasydytidae,Dasydytes,9,lamellatus,10,19,Kisielewski,1,1991,M,M2,Latin,Freshwater
+"Chaetonotus intermedius Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,intermedius,11,22,Kisielewski,1,1991,M,M3,Latin,Freshwater
+"Chaetonotus furcatus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,furcatus,8,19,Kisielewski,1,1991,M,M2,Latin,Freshwater
+"Dasydytes elongatus Kisielewski, 1991",Paucitubulatina,Dasydytidae,Dasydytes,9,elongatus,9,18,Kisielewski,1,1991,M,M1,Latin,Freshwater
+"Ichthydium chaetiferum Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Ichthydium,10,chaetiferum,11,21,Kisielewski,1,1991,M,M2,Latin+Greek,Freshwater
+"Paraturbanella brevicaudata Rao, 1991",Macrodasyida,Turbanellidae,Paraturbanella,14,brevicaudata,12,26,Rao,1,1991,M,M2,Latin,Marine
+"Chaetonotus breviacanthus Kisielewski, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,breviacanthus,13,24,Kisielewski,1,1991,M,M2,Latin+Greek,Freshwater
+"Thaumastoderma bifurcatum Clausen, 1991",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,bifurcatum,10,24,Clausen,1,1991,M,M2,Greek,Marine
+"Chaetonotus bifidispinosus Tretyakova, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,bifidispinosus,14,25,Tretyakova,1,1991,M,M2,Latin,Freshwater
+"Neogossea acanthocolla Kisielewski, 1991",Paucitubulatina,Neogosseidae,Neogossea,9,acanthocolla,12,21,Kisielewski,1,1991,M,M2,Latin+Greek,Freshwater
+"Prostobuccantia brocha Evans, Hummon, 1991",Macrodasyida,Turbanellidae,Prostobuccantia,15,brocha,6,21,"Evans, Hummon",2,1991,M,M2,Latin,Marine
+"Chaetonotus annectens Grosso, Drahg, 1991",Paucitubulatina,Chaetonotidae,Chaetonotus,11,annectens,9,20,"Grosso, Drahg",2,1991,M,M3,Latin,Freshwater
+"Dasydytes papaveroi Kisielewski, 1991",Paucitubulatina,Dasydytidae,Dasydytes,9,papaveroi,9,18,Kisielewski,1,1991,P,P1,Latin,Freshwater
+"Dasydytes carvalhoae Kisielewski, 1991",Paucitubulatina,Dasydytidae,Dasydytes,9,carvalhoae,10,19,Kisielewski,1,1991,P,P1,Latin,Freshwater
+"Chaetonotus dracunculus Balsamo, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dracunculus,11,22,Balsamo,1,1990,C,C,Latin,Freshwater
+"Chaetonotus pratensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pratensis,9,20,Schwank,1,1990,E,E2,Latin,Freshwater
+"Chaetonotus caricicola Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,caricicola,10,21,Schwank,1,1990,E,E2,Latin,Freshwater
+"Dichaetura surreyi Martin, 1990",Paucitubulatina,Dichaeturidae,Dichaetura,10,surreyi,7,17,Martin,1,1990,G,G2,Latin,Freshwater
+"Chaetonotus scoticus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,scoticus,8,19,Schwank,1,1990,G,G2,Latin,Freshwater
+"Chaetonotus schlitzensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,schlitzensis,12,23,Schwank,1,1990,G,G2,German Latinisation,Freshwater
+"Chaetonotus pawlowskii Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pawlowskii,10,21,Schwank,1,1990,G,G2,Polish Latinisation,Freshwater
+"Chaetonotus paraguayensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,paraguayensis,13,24,Schwank,1,1990,G,G2,Latin,Freshwater
+"Aspidiophorus ontarionensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,ontarionensis,13,26,Schwank,1,1990,G,G2,Latin,Freshwater
+"Chaetonotus ontariensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,ontariensis,11,22,Schwank,1,1990,G,G2,Iroquoian Latinisation,Freshwater
+"Aspidiophorus nipponensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,nipponensis,11,24,Schwank,1,1990,G,G1,Latin,Freshwater
+"Chaetonotus hoanicus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,hoanicus,8,19,Schwank,1,1990,G,G1,Latin,Freshwater
+"Chaetonotus ferrarius Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,ferrarius,9,20,Schwank,1,1990,G,G1,Latin,Freshwater
+"Setopus chatticus (Schwank, 1990)",Paucitubulatina,Dasydytidae,Setopus,7,chatticus,9,16,Schwank,1,1990,G,G1,Latin,Freshwater
+"Chaetonotus Braziliensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,Braziliensis,12,23,Schwank,1,1990,G,G2,Latin,Freshwater
+"Chaetonotus australiensis Schwank,1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,australiensis,13,24,Schwank,1,1990,G,G1,Latin,Freshwater
+"Chaetonotus africanus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,africanus,9,20,Schwank,1,1990,G,G1,Latin,Freshwater
+"Chaetonotus vellosus Martin, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,vellosus,8,19,Martin,1,1990,M,M1,Latin,Freshwater
+"Chaetonotus trispinosus Balsamo, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,trispinosus,11,22,Balsamo,1,1990,M,M2,Latin,Freshwater
+"Chaetonotus tricuspidatus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tricuspidatus,13,24,Schwank,1,1990,M,M2,Latin,Freshwater
+"Aspidiophorus schlitzensis Schwank, 1990",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,schlitzensis,12,25,Schwank,1,1990,M,M2,German Latinisation,Freshwater
+"Chaetonotus pygmaeus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pygmaeus,8,19,Schwank,1,1990,M,M1,Latin,Freshwater
+"Chaetonotus puniceus Martin, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,puniceus,8,19,Martin,1,1990,M,M1,Latin,Freshwater
+"Chaetonotus pungens Balsamo, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pungens,7,18,Balsamo,1,1990,M,M1,Latin,Freshwater
+"Heterolepidoderma patella Schwank, 1990",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,patella,7,24,Schwank,1,1990,M,M2,Latin,Freshwater
+"Chaetonotus oculatus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,oculatus,8,19,Schwank,1,1990,M,M2,Latin,Freshwater
+"Ichthydium malleum Schwank, 1990",Paucitubulatina,Chaetonotidae,Ichthydium,10,malleum,7,17,Schwank,1,1990,M,M2,Latin,Freshwater
+"Chaetonotus furculatus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,furculatus,10,21,Schwank,1,1990,M,M2,Latin,Freshwater
+"Chaetonotus euhystrix Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,euhystrix,9,20,Schwank,1,1990,M,M1,Latin+Greek,Freshwater
+"Chaetonotus cestacanthus Balsamo, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,cestacanthus,12,23,Balsamo,1,1990,M,M2,Greek,Freshwater
+"Ichthydium bifasciale Schwank, 1990",Paucitubulatina,Chaetonotidae,Ichthydium,10,bifasciale,10,20,Schwank,1,1990,M,M2,Latin,Freshwater
+"Dasydytes asymmetricus Schwank, 1990",Paucitubulatina,Dasydytidae,Dasydytes,9,asymmetricus,12,21,Schwank,1,1990,M,M1,Latin,Freshwater
+"Chaetonotus alatus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,alatus,6,17,Schwank,1,1990,M,M2,Latin,Freshwater
+"Chaetonotus remanei Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,remanei,7,18,Schwank,1,1990,P,P1,German Latinisation,Freshwater
+"Chaetonotus illiesi Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,illiesi,7,18,Schwank,1,1990,P,P1,Latin,Freshwater
+"Chaetonotus dadayi Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dadayi,6,17,Schwank,1,1990,P,P1,German Latinisation,Freshwater
+"Chaetonotus corderoi Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,corderoi,8,19,Schwank,1,1990,P,P1,Spanish Latinisation,Freshwater
+"Chaetonotus christianus Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,christianus,11,22,Schwank,1,1990,P,P4,Latin,Freshwater
+"Chaetonotus annae Schwank, 1990",Paucitubulatina,Chaetonotidae,Chaetonotus,11,annae,5,16,Schwank,1,1990,P,P4,Latin,Freshwater
+"Lepidodermella forficulata Schwank, 1989",Paucitubulatina,Chaetonotidae,Lepidodermella,14,forficulata,11,25,Schwank,1,1989,M,M2,Latin,Freshwater
+"Heterolepidoderma arenosum Kisielewski, 1988",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,arenosum,8,25,Kisielewski,1,1988,E,E2,Latin,Marine
+"Halichaetonotus atlanticus Kisielewski, 1988",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,atlanticus,10,25,Kisielewski,1,1988,G,G1,Latin,Marine
+"Tetranchyroderma sardum Todaro, Balsamo, Tongiorgi, 1988",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,sardum,6,22,"Todaro, Balsamo, Tongiorgi",3,1988,G,G1,Latin,Marine
+"Xenotrichula quadritubulata Kisielewski, 1988",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,quadritubulata,14,26,Kisielewski,1,1988,M,M2,Latin,Marine
+"Chaetonotus inaequidentatus Kisielewski, 1988",Paucitubulatina,Chaetonotidae,Chaetonotus,11,inaequidentatus,15,26,Kisielewski,1,1988,M,M2,Latin,Marine
+"Acanthodasys arcassonensis Kisielewski, 1987",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,arcassonensis,13,25,Kisielewski,1,1987,G,G2,Latin,Marine
+"Turbanella multidigitata Kisielewski, 1987",Macrodasyida,Turbanellidae,Turbanella,10,multidigitata,13,23,Kisielewski,1,1987,M,M2,Latin,Marine
+"Megadasys minor Kisielewski, 1987",Macrodasyida,Planodasyidae,Megadasys,9,minor,5,14,Kisielewski,1,1987,M,M1,Latin,Marine
+"Diplodasys caudatus Kisielewski, 1987",Macrodasyida,Thaumastodermatidae,Diplodasys,10,caudatus,8,18,Kisielewski,1,1987,M,M2,Latin,Marine
+"Aspidiophorus polystictos Balsamo, Todaro, 1987",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,polystictos,11,24,"Balsamo, Todaro",2,1987,M,M2,Greek,Marine
+"Diplodasys swedmarki Kisielewski, 1987",Macrodasyida,Thaumastodermatidae,Diplodasys,10,swedmarki,9,19,Kisielewski,1,1987,P,P4,Latin,Marine
+"Arenotus strixinoi Kisielewski, 1987",Paucitubulatina,Chaetonotidae,Arenotus,8,strixinoi,9,17,Kisielewski,1,1987,P,P1,Brazilian Portuguese Latinisation,Freshwater
+"Thaumastoderma renaudae Kisielewski, 1987",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,renaudae,8,22,Kisielewski,1,1987,P,P1,Latin,Marine
+"Redudasys fornerise Kisielewski, 1987",Macrodasyida,Redudasyidae,Redudasys,9,fornerise,9,18,Kisielewski,1,1987,P,P1,Latin,Freshwater
+"Chaetonotus fluviatilis Balsamo, Kisielewski, 1986",Paucitubulatina,Chaetonotidae,Chaetonotus,11,fluviatilis,11,22,"Balsamo, Kisielewski",2,1986,E,E2,Latin,Freshwater
+"Aspidiophorus tatraensis Kisielewski, 1986",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,tatraensis,10,23,Kisielewski,1,1986,G,G1,Latin,Freshwater
+"Aspidiophorus slovinensis Kisielewski, 1986",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,slovinensis,11,24,Kisielewski,1,1986,G,G2,Latin,Freshwater
+"Aspidiophorus tetrachaetus Kisielewski, 1986",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,tetrachaetus,12,25,Kisielewski,1,1986,M,M2,Greek,Freshwater
+"Aspidiophorus longichaetus Kisielewski, 1986",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,longichaetus,12,25,Kisielewski,1,1986,M,M2,Latin+Greek,Freshwater
+"Polymerurus paraelongatus Grosso, Drahg, 1986",Paucitubulatina,Chaetonotidae,Polymerurus,11,paraelongatus,13,24,"Grosso, Drahg",2,1986,M,M3,Latin,Freshwater
+"Chaetonotus odontopharynx Grosso, Drahg, 1986",Paucitubulatina,Chaetonotidae,Chaetonotus,11,odontopharynx,13,24,"Grosso, Drahg",2,1986,M,M2,Greek,Freshwater
+"Chaetonotus sudeticus Kisielewski, 1984",Paucitubulatina,Chaetonotidae,Chaetonotus,11,sudeticus,9,20,Kisielewski,1,1984,G,G1,Latin,Freshwater
+"Xenotrichula guadelupense Kisielewski, 1984",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,guadelupense,12,24,Kisielewski,1,1984,G,G1,French,Marine
+"Chaetonotus majestuosus Grosso, Drahg, 1984",Paucitubulatina,Chaetonotidae,Chaetonotus,11,majestuosus,11,22,"Grosso, Drahg",2,1984,M,M1,Latin,Freshwater
+"Tetranchyroderma esarabdophorum Tongiorgi, Balsamo, 1984",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,esarabdophorum,14,30,"Tongiorgi, Balsamo",2,1984,M,M2,Greek,Marine
+"Chaetonotus pawlowskii Kisielewski,1984",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pawlowskii,10,21,Kisielewski,1,1984,P,P1,Polish Latinisation,Freshwater
+"Chaetonotus soberanus Grosso, Drahg, 1983",Paucitubulatina,Chaetonotidae,Chaetonotus,11,soberanus,9,20,"Grosso, Drahg",2,1983,C,C,Latin,Freshwater
+"Ichthydium tanytrichum Balsamo, 1983",Paucitubulatina,Chaetonotidae,Ichthydium,10,tanytrichum,11,21,Balsamo,1,1983,M,M2,Greek,Freshwater
+"Aspidiophorus ophiodermus Balsamo, 1983",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,ophiodermus,11,24,Balsamo,1,1983,M,M2,Greek,Freshwater
+"Aspidiophorus lilloensis Grosso, Drahg, 1983",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,lilloensis,10,23,"Grosso, Drahg",2,1983,P,P5,Spanish Latinisation,Freshwater
+"Chaetonotus pilaga Grosso, 1982",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pilaga,6,17,Grosso,1,1982,C,C,Pilaga,Freshwater
+"Chaetonotus tenuisquamatus Grosso, 1982",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tenuisquamatus,14,25,Grosso,1,1982,M,M2,Latin,Freshwater
+"Setopus tongiorgii (Balsamo, 1982)",Paucitubulatina,Dasydytidae,Setopus,7,tongiorgii,10,17,Balsamo,1,1982,P,P1,Latin,Freshwater
+"Chaetonotus sphagnophilus Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,sphagnophilus,13,24,Kisielewski,1,1981,E,E2,Greek,Freshwater
+"Ichthydium palustre Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Ichthydium,10,palustre,8,18,Kisielewski,1,1981,E,E2,Latin,Freshwater
+"Tetranchyroderma littoralis Rao, 1981",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,littoralis,10,26,Rao,1,1981,E,E2,Latin,Marine
+"Chaetonotus poznaniensis Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,poznaniensis,12,23,Kisielewski,1,1981,G,G2,Polish Latinisation,Freshwater
+"Aspidiophorus polonicus Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,polonicus,9,22,Kisielewski,1,1981,G,G2,Latin,Freshwater
+"Crasiella indica Rao, 1981 (for 1980)",Macrodasyida,Planodasyidae,Crasiella,9,indica,6,15,Rao,1,1981,G,G2,Latin,Marine
+"Turbanella indica Rao, 1981",Macrodasyida,Turbanellidae,Turbanella,10,indica,6,16,Rao,1,1981,G,G2,Latin+Greek,Marine
+"Heterolepidoderma tenuisquamatum Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,tenuisquamatum,14,31,Kisielewski,1,1981,M,M2,Latin,Freshwater
+"Chaetonotus segnis Martin, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,segnis,6,17,Martin,1,1981,M,M1,Latin,Freshwater
+"Chaetonotus scutulatus Martin, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,scutulatus,10,21,Martin,1,1981,M,M2,Latin,Freshwater
+"Chaetonotus rectaculeatus Kisielewska, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,rectaculeatus,13,24,Kisielewska,1,1981,M,M1,Latin,Freshwater
+"Chaetonotus quadratus Martin, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,quadratus,9,20,Martin,1,1981,M,M2,Latin,Freshwater
+"Heterolepidoderma pineisquamatum Balsamo, 1981",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,pineisquamatum,14,31,Balsamo,1,1981,M,M2,Latin+Greek,Freshwater
+"Chaetonotus pentacanthus Balsamo, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,pentacanthus,12,23,Balsamo,1,1981,M,M2,Greek,Freshwater
+"Aspidiophorus oculifer Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,oculifer,8,21,Kisielewski,1,1981,M,M2,Latin,Freshwater
+"Chaetonotus oculifer Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,oculifer,8,19,Kisielewski,1,1981,M,M2,Latin,Freshwater
+"Heterolepidoderma macrops Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,macrops,7,24,Kisielewski,1,1981,M,M2,Greek,Freshwater
+"Chaetonotus lunatospinosus Balsamo, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,lunatospinosus,14,25,Balsamo,1,1981,M,M2,Latin,Freshwater
+"Cephalodasys caudatus Rao, 1981",Macrodasyida,Cephalodasyidae,Cephalodasys,12,caudatus,8,20,Rao,1,1981,M,M2,Latin,Marine
+"Heterolepidoderma brevitubulatum Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,brevitubulatum,14,31,Kisielewski,1,1981,M,M2,Latin,Freshwater
+"Aspidiophorus aster Martin, 1981",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,aster,5,18,Martin,1,1981,M,M2,Greek,Freshwater
+"Chaetonotus armatus Kisielewski, 1981",Paucitubulatina,Chaetonotidae,Chaetonotus,11,armatus,7,18,Kisielewski,1,1981,M,M1,Latin,Freshwater
+"Chaetonotus palustris Anderson, Robbins, 1980",Paucitubulatina,Chaetonotidae,Chaetonotus,11,palustris,9,20,"Anderson, Robbins",2,1980,E,E2,Latin,Freshwater
+"Paradasys lineatus Rao, 1980",Macrodasyida,Redudasyidae,Paradasys,9,lineatus,8,17,Rao,1,1980,M,M1,Latin,Marine
+"Chaetonotus brachyurus Balsamo, 1980",Paucitubulatina,Chaetonotidae,Chaetonotus,11,brachyurus,10,21,Balsamo,1,1980,M,M2,Greek,Freshwater
+"Chaetonotus tempestivus Mock, 1979",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tempestivus,11,22,Mock,1,1979,C,C,Latin,Marine
+"Caudichthydium supralitorale (Mock, 1979)",Paucitubulatina,Chaetonotidae,Caudichthydium,14,supralitorale,13,27,Mock,1,1979,E,E2,Latin,Marine
+"Halichaetonotus somniculosus (Mock, 1979)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,somniculosus,12,27,Mock,1,1979,E,E4,Latin,Marine
+"Heteroxenotrichula transatlantica Ruppert, 1979",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,transatlantica,14,32,Ruppert,1,1979,G,G2,Latin,Marine
+"Xenotrichula carolinensis Ruppert, 1979",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,carolinensis,12,24,Ruppert,1,1979,G,G2,Latin,Marine
+"Heteroxenotrichula arcassonensis Ruppert, 1979",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,arcassonensis,13,31,Ruppert,1,1979,G,G2,Latin,Marine
+"Chaetonotus variosquamatus Mock, 1979",Paucitubulatina,Chaetonotidae,Chaetonotus,11,variosquamatus,14,25,Mock,1,1979,M,M2,Latin,Marine
+"Heteroxenotrichula simplex (Mock, 1979)",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,simplex,7,25,Mock,1,1979,M,M2,Latin,Marine
+"Aspidiophorus ornatus Mock, 1979",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,ornatus,7,20,Mock,1,1979,M,M1,Latin,Marine
+"Heterolepidoderma longicaudatum Kisielewski, 1979",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,longicaudatum,13,30,Kisielewski,1,1979,M,M2,Latin,Freshwater
+"Chaetonotus lacunosus Mock, 1979",Paucitubulatina,Chaetonotidae,Chaetonotus,11,lacunosus,9,20,Mock,1,1979,M,M2,Latin,Freshwater
+"Heterolepidoderma grandiculum Mock, 1979",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,grandiculum,11,28,Mock,1,1979,M,M1,Latin,Marine
+"Chaetonotus condensus Mock, 1979",Paucitubulatina,Chaetonotidae,Chaetonotus,11,condensus,9,20,Mock,1,1979,M,M1,Latin,Marine
+"Aspidiophorus bisquamosus Mock, 1979",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,bisquamosus,11,24,Mock,1,1979,M,M2,Latin,Marine
+"Aspidiophorus bibulbosus Kisielewski, 1979",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,bibulbosus,10,23,Kisielewski,1,1979,M,M2,Latin,Freshwater
+"Heteroxenotrichula wilkeae Ruppert, 1979",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,wilkeae,7,25,Ruppert,1,1979,P,P1,German Latinisation,Marine
+"Caudichthydium rupperti (Mock, 1979)",Paucitubulatina,Chaetonotidae,Caudichthydium,14,rupperti,8,22,Mock,1,1979,P,P1,Latin,Marine
+"Chaetonotus rafalskii Kisielewski, 1979",Paucitubulatina,Chaetonotidae,Chaetonotus,11,rafalskii,9,20,Kisielewski,1,1979,P,P1,Polish Latinisation,Freshwater
+"Heterolepidoderma axi Mock, 1979",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,axi,3,20,Mock,1,1979,P,P1,Latin,Marine
+"Chaetonotus mutinensis Balsamo, 1978",Paucitubulatina,Chaetonotidae,Chaetonotus,11,mutinensis,10,21,Balsamo,1,1978,G,G2,Latin,Freshwater
+"Chaetonotus aemilianus Balsamo, 1978",Paucitubulatina,Chaetonotidae,Chaetonotus,11,aemilianus,10,21,Balsamo,1,1978,G,G2,Latin,Freshwater
+"Heterolepidoderma multiseriatum Balsamo, 1978",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,multiseriatum,13,30,Balsamo,1,1978,M,M2,Latin,Freshwater
+"Aspidiophorus microlepidotus d'Hondt, 1978",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,microlepidotus,14,27,d'Hondt,1,1978,M,M2,Latin+Greek,Freshwater
+"Chaetonotus heterospinosus Balsamo, 1978",Paucitubulatina,Chaetonotidae,Chaetonotus,11,heterospinosus,14,25,Balsamo,1,1978,M,M1,Latin+Greek,Freshwater
+"Dolichodasys carolinensis Ruppert, Shaw, 1977",Macrodasyida,Redudasyidae,Dolichodasys,12,carolinensis,12,24,"Ruppert, Shaw",2,1977,G,G2,Latin,Marine
+"Tetranchyroderma enallosum Hummon, 1977",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,enallosum,9,25,Hummon,1,1977,M,M2,Greek,Marine
+"Dolichodasys elongatus Gagne, 1977",Macrodasyida,Redudasyidae,Dolichodasys,12,elongatus,9,21,Gagne,1,1977,M,M1,Latin,Marine
+"Dolichodasys delicatus Ruppert, Shaw, 1977",Macrodasyida,Redudasyidae,Dolichodasys,12,delicatus,9,21,"Ruppert, Shaw",2,1977,M,M1,Latin,Marine
+"Caudichthydium hummoni (Ruppert, 1977)",Paucitubulatina,Chaetonotidae,Caudichthydium,14,hummoni,7,21,Ruppert,1,1977,P,P1,Latin,Marine
+"Paraturbanella eireanna Maguire, 1976",Macrodasyida,Turbanellidae,Paraturbanella,14,eireanna,8,22,Maguire,1,1976,G,G2,Ancient Irish,Marine
+"Paraturbanella cuanensis Maguire, 1976",Macrodasyida,Turbanellidae,Paraturbanella,14,cuanensis,9,23,Maguire,1,1976,G,G1,Ancient Irish,Marine
+"Turbanella varians Maguire, 1976",Macrodasyida,Turbanellidae,Turbanella,10,varians,7,17,Maguire,1,1976,M,M2,Latin,Marine
+"Halichaetonotus balticus Kisielewski, 1975",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,balticus,8,23,Kisielewski,1,1975,G,G1,Latin,Marine
+"Dasydytes monile Horlick, 1975",Paucitubulatina,Dasydytidae,Dasydytes,9,monile,6,15,Horlick,1,1975,M,M2,Latin,Freshwater
+"Halichaetonotus lamellatus Kisielewski, 1975",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,lamellatus,10,25,Kisielewski,1,1975,M,M2,Latin,Marine
+"Halichaetonotus schromi Kisielewski, 1975",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,schromi,7,22,Kisielewski,1,1975,P,P1,Latin,Marine
+"Turbanella reducta Boaden, 1974",Macrodasyida,Turbanellidae,Turbanella,10,reducta,7,17,Boaden,1,1974,E,E3,Latin,Marine
+"Musellifer profundus Vivier, 1974",Paucitubulatina,Muselliferidae,Musellifer,10,profundus,9,19,Vivier,1,1974,E,E2,Latin,Marine
+"Chaetonotus oligohalinus Hummon, 1974",Paucitubulatina,Chaetonotidae,Chaetonotus,11,oligohalinus,12,23,Hummon,1,1974,E,E1,Greek,Brackish
+"Crasiella oceanica d'Hondt, 1974",Macrodasyida,Planodasyidae,Crasiella,9,oceanica,8,17,d'Hondt,1,1974,E,E1,Latin,Marine
+"Cephalodasys pacificus Schmidt, 1974",Macrodasyida,Cephalodasyidae,Cephalodasys,12,pacificus,9,21,Schmidt,1,1974,G,G1,Latin,Marine
+"Dendrodasys pacificus Schmidt, 1974",Macrodasyida,Dactylopodolidae,Dendrodasys,11,pacificus,9,20,Schmidt,1,1974,G,G1,Latin,Marine
+"Diplodasys pacificus Schmidt, 1974",Macrodasyida,Thaumastodermatidae,Diplodasys,10,pacificus,9,19,Schmidt,1,1974,G,G1,Latin,Marine
+"Macrodasys pacificus Schmidt, 1974",Macrodasyida,Macrodasyidae,Macrodasys,10,pacificus,9,19,Schmidt,1,1974,G,G1,Latin,Marine
+"Megadasys pacificus Schmidt, 1974",Macrodasyida,Planodasyidae,Megadasys,9,pacificus,9,18,Schmidt,1,1974,G,G1,Latin,Marine
+"Oregodasys pacificus (Schmidt, 1974)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,pacificus,9,19,Schmidt,1,1974,G,G1,Latin,Marine
+"Paradasys pacificus Schmidt, 1974",Macrodasyida,Redudasyidae,Paradasys,9,pacificus,9,18,Schmidt,1,1974,G,G1,Latin,Marine
+"Tetranchyroderma pacificum Schmidt, 1974",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,pacificum,9,25,Schmidt,1,1974,G,G1,Latin,Marine
+"Paraturbanella pacifica Schmidt, 1974",Macrodasyida,Turbanellidae,Paraturbanella,14,pacifica,8,22,Schmidt,1,1974,G,G1,Latin,Marine
+"Turbanella pacifica Schmidt, 1974",Macrodasyida,Turbanellidae,Turbanella,10,pacifica,8,18,Schmidt,1,1974,G,G1,Latin,Marine
+"Urodasys remostylis Schoepfer-Sterrer, 1974",Macrodasyida,Urodasyidae,Urodasys,8,remostylis,10,18,Schoepfer-Sterrer,1,1974,M,M2,Latin+Greek,Marine
+"Aspidiophorus paramediterraneus Hummon, 1974",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,paramediterraneus,17,30,Hummon,1,1974,M,M3,Greek,Marine
+"Turbanella ocellata Hummon, 1974",Macrodasyida,Turbanellidae,Turbanella,10,ocellata,8,18,Hummon,1,1974,M,M2,Latin,Marine
+"Urodasys nodostylis Schoepfer-Sterrer, 1974",Macrodasyida,Urodasyidae,Urodasys,8,nodostylis,10,18,Schoepfer-Sterrer,1,1974,M,M2,Latin+Greek,Marine
+"Aspidiophorus multitubulatus Hummon, 1974",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,multitubulatus,14,27,Hummon,1,1974,M,M2,Latin,Marine
+"Cephalodasys miniceratus Hummon, 1974",Macrodasyida,Cephalodasyidae,Cephalodasys,12,miniceratus,11,23,Hummon,1,1974,M,M2,Greek,Marine
+"Urodasys cornustylis Schoepfer-Sterrer, 1974",Macrodasyida,Urodasyidae,Urodasys,8,cornustylis,11,19,Schoepfer-Sterrer,1,1974,M,M2,Latin+Greek,Marine
+"Chaetonotus chicous Hummon, 1974",Paucitubulatina,Chaetonotidae,Chaetonotus,11,chicous,7,18,Hummon,1,1974,M,M1,Spanish,Marine
+"Urodasys calicostylis Schoepfer-Sterrer, 1974",Macrodasyida,Urodasyidae,Urodasys,8,calicostylis,12,20,Schoepfer-Sterrer,1,1974,M,M2,Greek,Marine
+"Chordodasiopsis antennatus (Rieger, Ruppert, Rieger, Schoepfer-Sterrer, 1974)",Macrodasyida,Xenodasyidae,Chordodasiopsis,15,antennatus,10,25,Rieger,1,1974,M,M2,Latin,Marine
+"Megadasys sterreri (Boaden, 1974)",Macrodasyida,Planodasyidae,Megadasys,9,sterreri,8,17,Boaden,1,1974,P,P2,German,Marine
+"Chaetonotus schromi Hummon, 1974",Paucitubulatina,Chaetonotidae,Chaetonotus,11,schromi,7,18,Hummon,1,1974,P,P1,German Latinisation,Marine
+"Chaetonotus fenchelae d'Hondt, 1974",Paucitubulatina,Chaetonotidae,Chaetonotus,11,fenchelae,9,20,d'Hondt,1,1974,P,P1,Latin,Marine
+"Macrodasys thuscus Luporini, Magagnini, Tongiorgi, 1973",Macrodasyida,Macrodasyidae,Macrodasys,10,thuscus,7,17,"Luporini, Magagnini, Tongiorgi",3,1973,G,G2,Latin,Marine
+"Tetranchyroderma hirtum Luporini, Magagnini, Tongiorgi, 1973",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hirtum,6,22,"Luporini, Magagnini, Tongiorgi",3,1973,M,M1,Latin,Marine
+"Ichthydium stokesi Grosso, 1973",Paucitubulatina,Chaetonotidae,Ichthydium,10,stokesi,7,17,Grosso,1,1973,P,P1,Latin,Freshwater
+"Aspidiophorus brahmsi Grosso,1973",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,brahmsi,7,20,Grosso,1,1973,P,P3,Latin,Freshwater
+"Chaetonotus serenus Schrom, 1972",Paucitubulatina,Chaetonotidae,Chaetonotus,11,serenus,7,18,Schrom,1,1972,E,E4,Latin,Marine
+"Lepidodermella limogena Schrom, 1972",Paucitubulatina,Chaetonotidae,Lepidodermella,14,limogena,8,22,Schrom,1,1972,E,E3,Latin,Marine
+"Chaetonotus hilarus Schrom, 1972",Paucitubulatina,Chaetonotidae,Chaetonotus,11,hilarus,7,18,Schrom,1,1972,F,F,Latin,Marine
+"Turbanella veneziana Schrom, 1972",Macrodasyida,Turbanellidae,Turbanella,10,veneziana,9,19,Schrom,1,1972,G,G2,Latin,Marine
+"Heterolepidoderma istrianum Schrom, 1972",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,istrianum,9,26,Schrom,1,1972,G,G2,Latin,Marine
+"Chaetonotus modestus Schrom, 1972",Paucitubulatina,Chaetonotidae,Chaetonotus,11,modestus,8,19,Schrom,1,1972,M,M1,Latin,Marine
+"Heterolepidoderma loricatum Schrom, 1972",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,loricatum,9,26,Schrom,1,1972,M,M2,Latin,Marine
+"Xenotrichula lineata Schrom, 1972",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,lineata,7,19,Schrom,1,1972,M,M2,Latin,Marine
+"Heterolepidoderma contectum Schrom, 1972",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,contectum,9,26,Schrom,1,1972,M,M2,Latin,Marine
+"Heterolepidoderma clipeatum Schrom, 1972",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,clipeatum,9,26,Schrom,1,1972,M,M2,Latin,Marine
+"Halichaetonotus batillifer (Luporini, Tongiorgi, 1972)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,batillifer,10,25,Luporini,1,1972,M,M2,Latin,Marine
+"Chaetonotus angustus Schrom, 1972",Paucitubulatina,Chaetonotidae,Chaetonotus,11,angustus,8,19,Schrom,1,1972,M,M1,Latin,Marine
+"Chaetonotus aequispinosus Schrom, 1972",Paucitubulatina,Chaetonotidae,Chaetonotus,11,aequispinosus,13,24,Schrom,1,1972,M,M1,Latin,Marine
+"Halichaetonotus swedmarki Schrom, 1972",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,swedmarki,9,24,Schrom,1,1972,P,P1,Latin,Marine
+"Halichaetonotus riedli Schrom, 1972",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,riedli,6,21,Schrom,1,1972,P,P1,Latin,Marine
+"Chaetonotus oceanides d'Hondt, 1971",Paucitubulatina,Chaetonotidae,Chaetonotus,11,oceanides,9,20,d'Hondt,1,1971,E,E1,Latin,Marine
+"Halichaetonotus littoralis (d'Hondt, 1971)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,littoralis,10,25,d'Hondt,1,1971,E,E2,Latin,Marine
+"Halichaetonotus arenarius (d'Hondt, 1971)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,arenarius,9,24,d'Hondt,1,1971,E,E3,Latin,Marine
+"Lepidochaetus zelinkai var fujisanensis (Sudzuki, 1971)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,zelinkai,8,21,Sudzuki,1,1971,G,G1,Latin,Freshwater
+"Chaetonotus maximus Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Chaetonotus,11,maximus,7,18,Sudzuki,1,1971,G,G1,Latin,Freshwater
+"Chaetonotus maximus Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Chaetonotus,11,maximus,7,18,Sudzuki,1,1971,G,G1,Latin,Freshwater
+"Chaetonotus fujisanensis Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Chaetonotus,11,fujisanensis,12,23,Sudzuki,1,1971,G,G1,Japanese Latinisation,Freshwater
+"Halichaetonotus tentaculatus (d'Hondt, 1971)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,tentaculatus,12,27,d'Hondt,1,1971,M,M2,Latin,Marine
+"Lepidodermella serrata Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Lepidodermella,14,serrata,7,21,Sudzuki,1,1971,M,M2,Latin,Freshwater
+"Lepidodermella macrocephala d'Hondt,1971",Paucitubulatina,Chaetonotidae,Lepidodermella,14,macrocephala,12,26,d'Hondt,1,1971,M,M1,Greek,Freshwater
+"Ichthydium macrocapitatum Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Ichthydium,10,macrocapitatum,14,24,Sudzuki,1,1971,M,M2,Latin+Greek,Freshwater
+"Halichaetonotus jucundus (d'Hondt, 1971)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,jucundus,8,23,d'Hondt,1,1971,M,M1,Latin,Marine
+"Ichthydium fossae d'Hondt, 1971",Paucitubulatina,Chaetonotidae,Ichthydium,10,fossae,6,16,d'Hondt,1,1971,M,M2,Latin,Freshwater
+"Lepidodermella aspidioformis Sudzuki, 1971",Paucitubulatina,Chaetonotidae,Lepidodermella,14,aspidioformis,13,27,Sudzuki,1,1971,M,M3,Latin,Freshwater
+"Tetranchyroderma polypodium Luporini, Magagnini, Tongiorgi, 1971",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,polypodium,10,26,"Luporini, Magagnini, Tongiorgi",3,1971,M,M2,Latin,Marine
+"Paraturbanella pallida Luporini, Magagnini, Tongiorgi, 1971",Macrodasyida,Turbanellidae,Paraturbanella,14,pallida,7,21,"Luporini, Magagnini, Tongiorgi",3,1971,M,M1,Latin,Marine
+"Proichthydioides remanei Sudzuki, 1971",Paucitubulatina,Proichthydidae,Proichthydioides,16,remanei,7,23,Sudzuki,1,1971,P,P1,Latin,Freshwater
+"Pseudostomella indica Rao, 1970",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,indica,6,20,Rao,1,1970,G,G2,Latin,Marine
+"Xenotrichula floridana Thane-Fenchel, 1970",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,floridana,9,21,Thane-Fenchel,1,1970,G,G2,Spanish,Marine
+"Pseudostomella plumosa Ruppert, 1970",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,plumosa,7,21,Ruppert,1,1970,M,M2,Latin,Marine
+"Tetranchyroderma paradoxum Thane-Fenchel, 1970",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,paradoxum,9,25,Thane-Fenchel,1,1970,M,M2,Latin/Greek,Marine
+"Paraturbanella mesoptera Rao, 1970",Macrodasyida,Turbanellidae,Paraturbanella,14,mesoptera,9,23,Rao,1,1970,M,M2,Greek,Marine
+"Planodasys marginalis Rao, 1970 (in Rao & Clausen 1970)",Macrodasyida,Planodasyidae,Planodasys,10,marginalis,10,20,Rao,1,1970,M,M2,Latin,Marine
+"Kryptodasys hexadactylis (Rao, 1970)",Macrodasyida,Macrodasyidae,Kryptodasys,11,hexadactylis,12,23,Rao,1,1970,M,M2,Greek,Marine
+"Pseudostomella cataphracta Ruppert, 1970",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,cataphracta,11,25,Ruppert,1,1970,M,M2,Latin,Marine
+"Chaetonotus woodi Thane-Fenchel, 1970",Paucitubulatina,Chaetonotidae,Chaetonotus,11,woodi,5,16,Thane-Fenchel,1,1970,P,P1,Latin,Marine
+"Chaetonotus schoepferae Thane-Fenchel, 1970",Paucitubulatina,Chaetonotidae,Chaetonotus,11,schoepferae,11,22,Thane-Fenchel,1,1970,P,P1,German Latinisation,Marine
+"Turbanella otti Schrom, 1970",Macrodasyida,Turbanellidae,Turbanella,10,otti,4,14,Schrom,1,1970,P,P1,Latin,Marine
+"Tetranchyroderma bunti (Thane-Fenchel, 1970)",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,bunti,5,21,Thane-Fenchel,1,1970,P,P1,Latin,Marine
+"Tetranchyroderma boadeni Schrom, 1970",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,boadeni,7,23,Schrom,1,1970,P,P1,Latin,Marine
+"Musellifer sublitoralis Hummon, 1969",Paucitubulatina,Muselliferidae,Musellifer,10,sublitoralis,12,22,Hummon,1,1969,E,E2,Latin,Marine
+"Urodasys elongatus Renaud-Mornant, 1969",Macrodasyida,Urodasyidae,Urodasys,8,elongatus,9,17,Renaud-Mornant,1,1969,M,M2,Latin,Marine
+"Xenodasys riedli (Schoepfer-Sterrer, 1969)",Macrodasyida,Xenodasyidae,Xenodasys,9,riedli,6,15,Schoepfer-Sterrer,1,1969,P,P1,Latin,Marine
+"Paradasys littoralis Rao, Ganapati, 1968",Macrodasyida,Redudasyidae,Paradasys,9,littoralis,10,19,"Rao, Ganapati",2,1968,E,E2,Latin,Marine
+"Dactylopodola indica (Rao, Ganapati, 1968)",Macrodasyida,Dactylopodolidae,Dactylopodola,13,indica,6,19,Rao,1,1968,G,G2,Latin,Marine
+"Macrodasys waltairensis Rao, Ganapati, 1968",Macrodasyida,Macrodasyidae,Macrodasys,10,waltairensis,12,22,"Rao, Ganapati",2,1968,G,G2,Latin,Marine
+"Tetranchyroderma indicum Rao, Ganapati, 1968",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,indicum,7,23,"Rao, Ganapati",2,1968,G,G2,Latin,Marine
+"Turbanella bengalensis Rao, Ganapati, 1968",Macrodasyida,Turbanellidae,Turbanella,10,bengalensis,11,21,"Rao, Ganapati",2,1968,G,G1,Latin,Marine
+"Draculiciteria tesselata (Renaud-Mornant, 1968)",Paucitubulatina,Xenotrichulidae,Draculiciteria,14,tesselata,9,23,Renaud-Mornant,1,1968,M,M2,Latin,Marine
+"Pseudoturbanella stylifera d'Hondt, 1968",Macrodasyida,Turbanellidae,Pseudoturbanella,16,stylifera,9,25,d'Hondt,1,1968,M,M2,Latin,Marine
+"Ichthydium rostrum Roszczak, 1968",Paucitubulatina,Chaetonotidae,Ichthydium,10,rostrum,7,17,Roszczak,1,1968,M,M2,Latin,Freshwater
+"Crasiella diplura Clausen, 1968",Macrodasyida,Planodasyidae,Crasiella,9,diplura,7,16,Clausen,1,1968,M,M2,Greek,Marine
+"Xenotrichula tentaculata Rao, Ganapati, 1968",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,tentaculata,11,23,"Rao, Ganapati",2,1968,M,M2,Latin,Marine
+"Paraturbanella palpibara Rao, Ganapati, 1968",Macrodasyida,Turbanellidae,Paraturbanella,14,palpibara,9,23,"Rao, Ganapati",2,1968,M,M2,Latin-English,Marine
+"Mesodasys hexapodus Rao, Ganapati, 1968",Macrodasyida,Cephalodasyidae,Mesodasys,9,hexapodus,9,18,"Rao, Ganapati",2,1968,M,M2,Greek,Marine
+"Musellifer delamarei (Renaud-Mornant, 1968)",Paucitubulatina,Muselliferidae,Musellifer,10,delamarei,9,19,Renaud-Mornant,1,1968,P,P1,French Latinisation,Marine
+"Tetranchyroderma swedmarki Rao, Ganapati, 1968",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,swedmarki,9,25,"Rao, Ganapati",2,1968,P,P1,Latin,Marine
+"Diplodasys remanei Rao, Ganapati, 1968",Macrodasyida,Thaumastodermatidae,Diplodasys,10,remanei,7,17,"Rao, Ganapati",2,1968,P,P1,Latin,Marine
+"Paraturbanella boadeni Rao, Ganapati, 1968",Macrodasyida,Turbanellidae,Paraturbanella,14,boadeni,7,21,"Rao, Ganapati",2,1968,P,P1,Latin,Marine
+"Chaetonotus stagnalis d'Hondt, 1967",Paucitubulatina,Chaetonotidae,Chaetonotus,11,stagnalis,9,20,d'Hondt,1,1967,E,E2,Latin,Freshwater
+"Chaetonotus paluster d'Hondt, 1967",Paucitubulatina,Chaetonotidae,Chaetonotus,11,paluster,8,19,d'Hondt,1,1967,E,E2,Latin,Freshwater
+"Fluxiderma montanum (Rudescu, 1967)",Paucitubulatina,Chaetonotidae,Fluxiderma,10,montanum,8,18,Rudescu,1,1967,E,E2,Latin,Freshwater
+"Lepidochaetus zelinkai var gallicus (d'Hondt, 1967)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,zelinkai,8,21,d'Hondt,1,1967,G,G2,Latin,Freshwater
+"Xenodasys sanctigoulveni Swedmark, 1967",Macrodasyida,Xenodasyidae,Xenodasys,9,sanctigoulveni,14,23,Swedmark,1,1967,G,G1,Latin,Marine
+"Dactylopodola roscovita (Swedmark, 1967)",Macrodasyida,Dactylopodolidae,Dactylopodola,13,roscovita,9,22,Swedmark,1,1967,G,G2,Latin,Marine
+"Pseudostomella malayica Renaud-Mornant, 1967",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,malayica,8,22,Renaud-Mornant,1,1967,G,G2,Latin,Marine
+"Lepidochaetus carpaticus (Rudescu, 1967)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,carpaticus,10,23,Rudescu,1,1967,G,G1,Latin,Freshwater
+"Chaetonotus venustus d'Hondt, 1967",Paucitubulatina,Chaetonotidae,Chaetonotus,11,venustus,8,19,d'Hondt,1,1967,M,M1,Latin,Freshwater
+"Heterolepidoderma obesum d'Hondt, 1967",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,obesum,6,23,d'Hondt,1,1967,M,M1,Latin,Freshwater
+"Heterolepidoderma foliatum Renaud-Mornant, 1967",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,foliatum,8,25,Renaud-Mornant,1,1967,M,M2,Latin,Marine
+"Chaetonotus vargai Rudescu, 1967",Paucitubulatina,Chaetonotidae,Chaetonotus,11,vargai,6,17,Rudescu,1,1967,P,P1,Latin,Freshwater
+"Tetranchyroderma dragescoi Swedmark, 1967",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,dragescoi,9,25,Swedmark,1,1967,P,P1,Latin,Marine
+"Chaetonotus beauchampi d'Hondt, 1967",Paucitubulatina,Chaetonotidae,Chaetonotus,11,beauchampi,10,21,d'Hondt,1,1967,P,P1,French Latinisation,Freshwater
+"Halichaetonotus testiculophorus (Hummon, 1966)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,testiculophorus,15,30,Hummon,1,1966,M,M2,Latin+Greek,Marine
+"Heterolepidoderma armatum Schrom, 1966",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,armatum,7,24,Schrom,1,1966,M,M2,Latin,Marine
+"Xenotrichula soikai Schrom, 1966",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,soikai,6,18,Schrom,1,1966,P,P1,Italian,Marine
+"Heterolepidoderma illinoisensis Robbins, 1965",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,illinoisensis,13,30,Robbins,1,1965,G,G2,Latin,Freshwater
+"Thaumastoderma arcassonense d'Hondt, 1965",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,arcassonense,12,26,d'Hondt,1,1965,G,G2,Latin,Marine
+"Tetranchyroderma tribolosum Clausen, 1965",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,tribolosum,10,26,Clausen,1,1965,M,M2,Greek,Marine
+"Tetranchyroderma thysanogaster Boaden, 1965",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,thysanogaster,13,29,Boaden,1,1965,M,M2,Greek,Marine
+"Oregodasys styliferus (Boaden, 1965)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,styliferus,10,20,Boaden,1,1965,M,M2,Latin,Marine
+"Thaumastoderma ramuliferum Clausen, 1965",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,ramuliferum,11,25,Clausen,1,1965,M,M2,Latin,Marine
+"Desmodasys phocoides Clausen, 1965",Macrodasyida,Turbanellidae,Desmodasys,10,phocoides,9,19,Clausen,1,1965,M,M1,Latin,Marine
+"Oregodasys phacellatus (Clausen, 1965)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,phacellatus,11,21,Clausen,1,1965,M,M2,Latin,Marine
+"Oregodasys ocellatus (Clausen, 1965)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,ocellatus,9,19,Clausen,1,1965,M,M2,Latin,Marine
+"Oregodasys mastigurus (Clausen, 1965)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,mastigurus,10,20,Clausen,1,1965,M,M2,Latin,Marine
+"Chaetonotus aculeatus Robbins, 1965",Paucitubulatina,Chaetonotidae,Chaetonotus,11,aculeatus,9,20,Robbins,1,1965,M,M1,Latin,Freshwater
+"Cephalodasys littoralis Renaud-Debyser, 1964",Macrodasyida,Cephalodasyidae,Cephalodasys,12,littoralis,10,22,Renaud-Debyser,1,1964,E,E2,Latin,Marine
+"Chaetonotus trianguliformis Visvesvara, 1964",Paucitubulatina,Chaetonotidae,Chaetonotus,11,trianguliformis,15,26,Visvesvara,1,1964,M,M2,Latin,Freshwater
+"Chaetonotus sextospinosus Visvesvara, 1964",Paucitubulatina,Chaetonotidae,Chaetonotus,11,sextospinosus,13,24,Visvesvara,1,1964,M,M2,Latin,Freshwater
+"Chaetonotus monobarbatus Visvesvara, 1964",Paucitubulatina,Chaetonotidae,Chaetonotus,11,monobarbatus,12,23,Visvesvara,1,1964,M,M2,Latin+Greek,Freshwater
+"Chaetonotus laterospinosus Visvesvara, 1964",Paucitubulatina,Chaetonotidae,Chaetonotus,11,laterospinosus,14,25,Visvesvara,1,1964,M,M1,Latin,Freshwater
+"Chaetonotus caudalspinosus Visvesvara, 1964",Paucitubulatina,Chaetonotidae,Chaetonotus,11,caudalspinosus,14,25,Visvesvara,1,1964,M,M2,Latin,Freshwater
+"Dendroichthydium silvaticus (Varga, 1963)",Paucitubulatina,Chaetonotidae,Dendroichthydium,16,silvaticus,10,26,Varga,1,1963,E,E2,Latin,Freshwater
+"Cephalodasys palavensis Fize, 1963",Macrodasyida,Cephalodasyidae,Cephalodasys,12,palavensis,10,22,Fize,1,1963,G,G2,Latin,Marine
+"Cephalodasys cambriensis (Boaden, 1963)",Macrodasyida,Cephalodasyidae,Cephalodasys,12,cambriensis,11,23,Boaden,1,1963,G,G2,Latin,Marine
+"Polymerurus magnus Visvesvara, 1963",Paucitubulatina,Chaetonotidae,Polymerurus,11,magnus,6,17,Visvesvara,1,1963,M,M1,Latin,Freshwater
+"Tetranchyroderma coeliopodium Boaden, 1963",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,coeliopodium,12,28,Boaden,1,1963,M,M2,Greek,Marine
+"Setopus abarbita (Visvesvara, 1963)",Paucitubulatina,Dasydytidae,Setopus,7,abarbita,8,15,Visvesvara,1,1963,M,M2,Greek + Latin,Freshwater
+"Kryptodasys remanei (Boaden, 1963)",Macrodasyida,Macrodasyidae,Kryptodasys,11,remanei,7,18,Boaden,1,1963,P,P1,Latin,Marine
+"Neodasys uchidai Remane, 1961",Multitubulatina,Neodasyidae,Neodasys,8,uchidai,7,15,Remane,1,1961,P,P1,Latin,Marine
+"Turbanella remanei Forneris, 1961",Macrodasyida,Turbanellidae,Turbanella,10,remanei,7,17,Forneris,1,1961,P,P1,Latin,Marine
+"Tetranchyroderma suecicum Boaden, 1960",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,suecicum,8,24,Boaden,1,1960,G,G2,Latin,Marine
+"Cephalodasys turbanelloides (Boaden, 1960)",Macrodasyida,Cephalodasyidae,Cephalodasys,12,turbanelloides,14,26,Boaden,1,1960,M,M3,Greek Latinisation,Marine
+"Turbanella corderoi Dioni, 1960",Macrodasyida,Turbanellidae,Turbanella,10,corderoi,8,18,Dioni,1,1960,P,P1,Latin,Marine
+"Neogossea sexiseta Krivanek, Krivanek, 1959",Paucitubulatina,Neogosseidae,Neogossea,9,sexiseta,8,17,"Krivanek, Krivanek",2,1959,M,M2,Latin,Freshwater
+"Chaetonotus lucksi Voigt, 1958",Paucitubulatina,Chaetonotidae,Chaetonotus,11,lucksi,6,17,Voigt,1,1958,P,P1,German Latinisation,Freshwater
+"Thaumastoderma cantacuzeni Lévi, 1958",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,cantacuzeni,11,25,Lévi,1,1958,P,P2,Latin,Marine
+"Turbanella bocqueti Kaplan, 1958",Macrodasyida,Turbanellidae,Turbanella,10,bocqueti,8,18,Kaplan,1,1958,P,P1,Latin,Marine
+"Turbanella mustela Wieser, 1957",Macrodasyida,Turbanellidae,Turbanella,10,mustela,7,17,Wieser,1,1957,E,E4,Latin,Marine
+"Macrodasys cunctatus Wieser, 1957",Macrodasyida,Macrodasyidae,Macrodasys,10,cunctatus,9,19,Wieser,1,1957,E,E3,Latin,Marine
+"Tetranchyroderma pugetense Wieser, 1957",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,pugetense,9,25,Wieser,1,1957,G,G1,Latin,Marine
+"Dendrodasys ponticus Valkanov, 1957",Macrodasyida,Dactylopodolidae,Dendrodasys,11,ponticus,8,19,Valkanov,1,1957,G,G1,Latin,Marine
+"Turbanella pontica Valkanov, 1957",Macrodasyida,Turbanellidae,Turbanella,10,pontica,7,17,Valkanov,1,1957,G,G1,Latin,Marine
+"Macrodasys neapolitanus Papi, 1957",Macrodasyida,Macrodasyidae,Macrodasys,10,neapolitanus,12,22,Papi,1,1957,G,G2,Latin,Marine
+"Paraturbanella intermedia Wieser, 1957",Macrodasyida,Turbanellidae,Paraturbanella,14,intermedia,10,24,Wieser,1,1957,M,M1,Latin,Marine
+"Macrodasys gerlachi Papi, 1957",Macrodasyida,Macrodasyidae,Macrodasys,10,gerlachi,8,18,Papi,1,1957,P,P1,Latin,Marine
+"Pseudostomella roscovita Swedmark, 1956",Macrodasyida,Thaumastodermatidae,Pseudostomella,14,roscovita,9,23,Swedmark,1,1956,G,G2,Latin,Marine
+"Tetranchyroderma massiliense Swedmark, 1956",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,massiliense,11,27,Swedmark,1,1956,G,G2,Latin,Marine
+"Oregodasys tentaculatus (Swedmark, 1956)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,tentaculatus,12,22,Swedmark,1,1956,M,M2,Latin,Marine
+"Oregodasys ruber (Swedmark, 1956)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,ruber,5,15,Swedmark,1,1956,M,M1,Latin,Marine
+"Dactylopodola cornuta (Swedmark, 1956)",Macrodasyida,Dactylopodolidae,Dactylopodola,13,cornuta,7,20,Swedmark,1,1956,M,M2,Latin,Marine
+"Chaetonotus neptuni Wilke, 1954",Paucitubulatina,Chaetonotidae,Chaetonotus,11,neptuni,7,18,Wilke,1,1954,C,C,Latin,Marine
+"Urodasys viviparus Wilke, 1954",Macrodasyida,Urodasyidae,Urodasys,8,viviparus,9,17,Wilke,1,1954,E,E4,Latin,Marine
+"Heterolepidoderma hermaphroditum Wilke, 1954",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,hermaphroditum,14,31,Wilke,1,1954,E,E4,Greek,Marine
+"Chaetonotus atrox Wilke, 1954",Paucitubulatina,Chaetonotidae,Chaetonotus,11,atrox,5,16,Wilke,1,1954,E,E4,Latin,Marine
+"Chaetonotus parthenopeius Wilke, 1954",Paucitubulatina,Chaetonotidae,Chaetonotus,11,parthenopeius,13,24,Wilke,1,1954,G,G2,Latin,Marine
+"Paraturbanella armoricana (Swedmark, 1954)",Macrodasyida,Turbanellidae,Paraturbanella,14,armoricana,10,24,Swedmark,1,1954,G,G2,Celtic,Marine
+"Tetranchyroderma verum Wilke, 1954",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,verum,5,21,Wilke,1,1954,M,M2,Latin,Marine
+"Aspidiophorus tentaculatus Wilke, 1954",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,tentaculatus,12,25,Wilke,1,1954,M,M2,Latin,Marine
+"Heteroxenotrichula squamosa Wilke, 1954",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,squamosa,8,26,Wilke,1,1954,M,M1,Latin,Marine
+"Xenotrichula punctata Wilke, 1954",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,punctata,8,20,Wilke,1,1954,M,M2,Latin,Marine
+"Halichaetonotus parvus (Wilke, 1954)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,parvus,6,21,Wilke,1,1954,M,M1,Latin,Marine
+"Paradasys hexadactylus Karling, 1954",Macrodasyida,Redudasyidae,Paradasys,9,hexadactylus,12,21,Karling,1,1954,M,M2,Greek,Marine
+"Dendrodasys gracilis Wilke, 1954",Macrodasyida,Dactylopodolidae,Dendrodasys,11,gracilis,8,19,Wilke,1,1954,M,M1,Latin,Marine
+"Chaetonotus dispar Wilke, 1954",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dispar,6,17,Wilke,1,1954,M,M2,Latin,Marine
+"Xenotrichula cornuta Wilke, 1954",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,cornuta,7,19,Wilke,1,1954,M,M2,Latin,Marine
+"Ptychostomella brachycephala (Lévi, 1954)",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,brachycephala,13,27,Lévi,1,1954,M,M2,Greek,Marine
+"Dendrodasys affinis Wilke, 1954",Macrodasyida,Dactylopodolidae,Dendrodasys,11,affinis,7,18,Wilke,1,1954,M,M3,Latin,Marine
+"Paraturbanella teissieri Swedmark, 1954",Macrodasyida,Turbanellidae,Paraturbanella,14,teissieri,9,23,Swedmark,1,1954,P,P1,Latin,Marine
+"Diplodasys ankeli Wilke, 1954",Macrodasyida,Thaumastodermatidae,Diplodasys,10,ankeli,6,16,Wilke,1,1954,P,P1,Latin,Marine
+"Halichaetonotus aculifer (Gerlach, 1953)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,aculifer,8,23,Gerlach,1,1953,M,M2,Latin,Marine
+"Tetranchyroderma papii Gerlach, 1953",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,papii,5,21,Gerlach,1,1953,P,P1,Latin,Marine
+"Turbanella palaciosi Remane, 1953",Macrodasyida,Turbanellidae,Turbanella,10,palaciosi,9,19,Remane,1,1953,P,P1,Latin,Marine
+"Turbanella petiti Remane, 1952",Macrodasyida,Turbanellidae,Turbanella,10,petiti,6,16,Remane,1,1952,P,P1,Latin,Marine
+"Turbanella lutheri Remane, 1952",Macrodasyida,Turbanellidae,Turbanella,10,lutheri,7,17,Remane,1,1952,P,P1,Latin,Marine
+"Mesodasys littoralis Remane, 1951",Macrodasyida,Cephalodasyidae,Mesodasys,9,littoralis,10,19,Remane,1,1951,E,E3,Latin,Marine
+"Mesodasys laticaudatus Remane, 1951",Macrodasyida,Cephalodasyidae,Mesodasys,9,laticaudatus,12,21,Remane,1,1951,M,M2,Latin,Marine
+"Chaetonotus trichodrymodes Brunson, 1950",Paucitubulatina,Chaetonotidae,Chaetonotus,11,trichodrymodes,14,25,Brunson,1,1950,E,E2,Greek,Freshwater
+"Stylochaeta scirtetica Brunson, 1950",Paucitubulatina,Dasydytidae,Stylochaeta,11,scirtetica,10,21,Brunson,1,1950,E,E4,Greek,Freshwater
+"Macrodasys africanus Remane, 1950",Macrodasyida,Macrodasyidae,Macrodasys,10,africanus,9,19,Remane,1,1950,G,G1,Latin,Marine
+"Chaetonotus vulgaris Brunson, 1950",Paucitubulatina,Chaetonotidae,Chaetonotus,11,vulgaris,8,19,Brunson,1,1950,M,M1,Latin,Freshwater
+"Lepidodermella triloba (Brunson, 1950)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,triloba,7,21,Brunson,1,1950,M,M1,Greek,Freshwater
+"Chaetonotus trichostichodes Brunson, 1950",Paucitubulatina,Chaetonotidae,Chaetonotus,11,trichostichodes,15,26,Brunson,1,1950,M,M2,Greek,Freshwater
+"Haltidytes ooeides (Brunson, 1950)",Paucitubulatina,Dasydytidae,Haltidytes,10,ooeides,7,17,Brunson,1,1950,M,M1,Greek,Freshwater
+"Ichthydium minimum Brunson, 1950",Paucitubulatina,Chaetonotidae,Ichthydium,10,minimum,7,17,Brunson,1,1950,M,M1,Latin,Freshwater
+"Chaetonotus gastrocyaneus Brunson, 1950",Paucitubulatina,Chaetonotidae,Chaetonotus,11,gastrocyaneus,13,24,Brunson,1,1950,M,M2,Greek,Freshwater
+"Tetranchyroderma cirrophorum Lévi, 1950",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,cirrophorum,11,27,Lévi,1,1950,M,M2,Latin,Marine
+"Polymerurus callosus Brunson, 1950",Paucitubulatina,Chaetonotidae,Polymerurus,11,callosus,8,19,Brunson,1,1950,M,M2,Latin,Freshwater
+"Ichthydium auritum Brunson, 1950",Paucitubulatina,Chaetonotidae,Ichthydium,10,auritum,7,17,Brunson,1,1950,M,M2,Latin,Freshwater
+"Chaetonotus anomalus Brunson, 1950",Paucitubulatina,Chaetonotidae,Chaetonotus,11,anomalus,8,19,Brunson,1,1950,M,M2,Latin,Freshwater
+"Thaumastoderma swedmarki Lévi, 1950",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,swedmarki,9,23,Lévi,1,1950,P,P1,Latin,Marine
+"Ichthydium balatonicum Varga, 1949",Paucitubulatina,Chaetonotidae,Ichthydium,10,balatonicum,11,21,Varga,1,1949,G,G1,Latin,Freshwater
+"Chaetonotus tachyneusticus Brunson, 1948",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tachyneusticus,14,25,Brunson,1,1948,M,M1,Latin+Greek,Freshwater
+"Ichthydium macropharyngistum Brunson,1947",Paucitubulatina,Chaetonotidae,Ichthydium,10,macropharyngistum,17,27,Brunson,1,1947,M,M2,Greek,Freshwater
+"Ichthydium leptum Brunson, 1947",Paucitubulatina,Chaetonotidae,Ichthydium,10,leptum,6,16,Brunson,1,1947,M,M1,Greek,Freshwater
+"Ichthydium cephalobares Brunson, 1947",Paucitubulatina,Chaetonotidae,Ichthydium,10,cephalobares,12,22,Brunson,1,1947,M,M2,Greek,Freshwater
+"Ichthydium brachykolon Brunson, 1947",Paucitubulatina,Chaetonotidae,Ichthydium,10,brachykolon,11,21,Brunson,1,1947,M,M2,Greek,Freshwater
+"Turbanella ambronensis Remane, 1943",Macrodasyida,Turbanellidae,Turbanella,10,ambronensis,11,21,Remane,1,1943,G,G1,Latin,Marine
+"Ptychostomella helana Roszczak, 1939",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,helana,6,20,Roszczak,1,1939,G,G2,Latin,Marine
+"Macrodasys balticus Roszczak, 1939",Macrodasyida,Macrodasyidae,Macrodasys,10,balticus,8,18,Roszczak,1,1939,G,G1,Latin,Marine
+"Xenotrichula bispina Roszczak, 1939",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,bispina,7,19,Roszczak,1,1939,M,M2,Latin,Marine
+"Chaetonotus robustus Davison, 1938",Paucitubulatina,Chaetonotidae,Chaetonotus,11,robustus,8,19,Davison,1,1938,M,M1,Latin,Freshwater
+"Chaetonotus antipai Rodewald, 1938",Paucitubulatina,Chaetonotidae,Chaetonotus,11,antipai,7,18,Rodewald,1,1938,P,P1,Romanian Latinisation,Marine
+"Chaetonotus trilineatus Valkanov, 1937",Paucitubulatina,Chaetonotidae,Chaetonotus,11,trilineatus,11,22,Valkanov,1,1937,M,M2,Latin,Freshwater
+"Aspidiophorus semirotundus Saito, 1937",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,semirotundus,12,25,Saito,1,1937,M,M1,Latin,Freshwater
+"Chaetonotus scutatus Saito, 1937",Paucitubulatina,Chaetonotidae,Chaetonotus,11,scutatus,8,19,Saito,1,1937,M,M2,Latin,Freshwater
+"Heterolepidoderma obliquum Saito, 1937",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,obliquum,8,25,Saito,1,1937,M,M1,Latin,Freshwater
+"Aspidiophorus microsquamatus Saito, 1937",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,microsquamatus,14,27,Saito,1,1937,M,M2,Latin+Greek,Freshwater
+"Aspidiophorus heterodermus Saito, 1937",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,heterodermus,12,25,Saito,1,1937,M,M2,Greek,Freshwater
+"Tetranchyroderma dendricum Saito, 1937",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,dendricum,9,25,Saito,1,1937,M,M2,Greek,Marine
+"Chaetonotus acanthocephalus Valkanov, 1937",Paucitubulatina,Chaetonotidae,Chaetonotus,11,acanthocephalus,15,26,Valkanov,1,1937,M,M2,Greek,Freshwater
+"Chaetonotus vorax Remane, 1936",Paucitubulatina,Chaetonotidae,Chaetonotus,11,vorax,5,16,Remane,1,1936,M,M1,Latin,Freshwater
+"Diplodasys minor Remane, 1936",Macrodasyida,Thaumastodermatidae,Diplodasys,10,minor,5,15,Remane,1,1936,M,M1,Latin,Marine
+"Lepidodermella minor (Remane, 1936)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,minor,5,19,Remane,1,1936,M,M1,Latin,Freshwater
+"Macrodasys affinis Remane, 1936",Macrodasyida,Macrodasyidae,Macrodasys,10,affinis,7,17,Remane,1,1936,M,M3,Latin,Marine
+"Fluxiderma verrucosum (Roszczak, 1935)",Paucitubulatina,Chaetonotidae,Fluxiderma,10,verrucosum,10,20,Roszczak,1,1935,M,M2,Latin,Freshwater
+"Aspidiophorus squamulosus (Roszczak, 1935)",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,squamulosus,11,24,Roszczak,1,1935,M,M2,Latin,Freshwater
+"Chaetonotus rarispinosus Roszczak, 1935",Paucitubulatina,Chaetonotidae,Chaetonotus,11,rarispinosus,12,23,Roszczak,1,1935,M,M1,Latin,Freshwater
+"Chaetonotus brevisetosus Roszczak, 1935",Paucitubulatina,Chaetonotidae,Chaetonotus,11,brevisetosus,12,23,Roszczak,1,1935,M,M2,Latin,Freshwater
+"Chaetonotus jakubskii Roszczak, 1935",Paucitubulatina,Chaetonotidae,Chaetonotus,11,jakubskii,9,20,Roszczak,1,1935,P,P1,Polish Latinisation,Freshwater
+"Paradasys subterraneus Remane, 1934",Macrodasyida,Redudasyidae,Paradasys,9,subterraneus,12,21,Remane,1,1934,E,E3,Latin,Marine
+"Heteroxenotrichula subterranea (Remane, 1934)",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,subterranea,11,29,Remane,1,1934,E,E3,Latin,Marine
+"Turbanella subterranea Remane, 1934",Macrodasyida,Turbanellidae,Turbanella,10,subterranea,11,21,Remane,1,1934,E,E3,Latin,Marine
+"Heteroxenotrichula pygmaea (Remane, 1934)",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,pygmaea,7,25,Remane,1,1934,M,M1,Latin,Marine
+"Xenotrichula intermedia Remane, 1934",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,intermedia,10,22,Remane,1,1934,M,M1,Latin,Marine
+"Heteroxenotrichula affinis (Remane, 1934)",Paucitubulatina,Xenotrichulidae,Heteroxenotrichula,18,affinis,7,25,Remane,1,1934,M,M3,Latin,Marine
+"Kijanebalola dubia Beauchamp, 1932",Paucitubulatina,Neogosseidae,Kijanebalola,12,dubia,5,17,Beauchamp,1,1932,I,I,Latin,Freshwater
+"Halichaetonotus decipiens (Remane, 1929)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,decipiens,9,24,Remane,1,1929,M,M3,Latin,Marine
+"Chaetonotus murrayi Remane, 1929",Paucitubulatina,Chaetonotidae,Chaetonotus,11,murrayi,7,18,Remane,1,1929,P,P1,Latin,Freshwater
+"Xenotrichula velox Remane, 1927",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,velox,5,17,Remane,1,1927,E,E4,Latin,Marine
+"Aspidiophorus mediterraneus Remane, 1927",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,mediterraneus,13,26,Remane,1,1927,G,G1,Latin,Marine
+"Thaumastoderma mediterraneum Remane, 1927",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,mediterraneum,13,27,Remane,1,1927,G,G1,Latin,Marine
+"Ptychostomella mediterranea Remane, 1927",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,mediterranea,12,26,Remane,1,1927,G,G1,Latin,Marine
+"Pleurodasys helgolandicus Remane, 1927",Macrodasyida,Cephalodasyidae,Pleurodasys,11,helgolandicus,13,24,Remane,1,1927,G,G1,Latin,Marine
+"Dactylopodola typhle (Remane, 1927)",Macrodasyida,Dactylopodolidae,Dactylopodola,13,typhle,6,19,Remane,1,1927,M,M2,Greek,Marine
+"Tetranchyroderma polyacanthum (Remane, 1927)",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,polyacanthum,12,28,Remane,1,1927,M,M2,Latin,Marine
+"Diplodasys platydasyoides Remane, 1927",Macrodasyida,Thaumastodermatidae,Diplodasys,10,platydasyoides,14,24,Remane,1,1927,M,M3,Greek,Marine
+"Halichaetonotus paradoxus (Remane, 1927)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,paradoxus,9,24,Remane,1,1927,M,M1,Latin+Greek,Marine
+"Ptychostomella ommatophora Remane, 1927",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,ommatophora,11,25,Remane,1,1927,M,M2,Greek,Marine
+"Dinodasys mirabilis Remane, 1927",Macrodasyida,Turbanellidae,Dinodasys,9,mirabilis,9,18,Remane,1,1927,M,M2,Latin,Marine
+"Tetranchyroderma megastomum (Remane, 1927)",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,megastomum,10,26,Remane,1,1927,M,M2,Greek,Marine
+"Oregodasys maximus (Remane, 1927)",Macrodasyida,Thaumastodermatidae,Oregodasys,10,maximus,7,17,Remane,1,1927,M,M2,Latin,Marine
+"Heterolepidoderma majus Remane, 1927",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,majus,5,22,Remane,1,1927,M,M1,Latin,Freshwater
+"Chaetonotus macrolepidotus Remane, 1927",Paucitubulatina,Chaetonotidae,Chaetonotus,11,macrolepidotus,14,25,Remane,1,1927,M,M2,Greek,Freshwater
+"Chaetonotus heteracanthus Remane, 1927",Paucitubulatina,Chaetonotidae,Chaetonotus,11,heteracanthus,13,24,Remane,1,1927,M,M1,Greek,Freshwater
+"Heterolepidoderma gracile Remane, 1927",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,gracile,7,24,Remane,1,1927,M,M1,Latin,Freshwater
+"Ichthydium forficula Remane, 1927",Paucitubulatina,Chaetonotidae,Ichthydium,10,forficula,9,19,Remane,1,1927,M,M2,Latin,Freshwater
+"Neodasys chaetonotoideus Remane, 1927",Multitubulatina,Neodasyidae,Neodasys,8,chaetonotoideus,15,23,Remane,1,1927,M,M3,Greek,Marine
+"Macrodasys cephalatus Remane, 1927",Macrodasyida,Macrodasyidae,Macrodasys,10,cephalatus,10,20,Remane,1,1927,M,M2,Latin,Marine
+"Macrodasys caudatus Remane, 1927",Macrodasyida,Macrodasyidae,Macrodasys,10,caudatus,8,18,Remane,1,1927,M,M2,Latin,Marine
+"Tetranchyroderma apum Remane, 1927",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,apum,4,20,Remane,1,1927,M,M2,Latin,Marine
+"Acanthodasys aculeatus Remane, 1927",Macrodasyida,Thaumastodermatidae,Acanthodasys,12,aculeatus,9,21,Remane,1,1927,M,M2,Latin,Marine
+"Chaetonotus greuteri Remane, 1927",Paucitubulatina,Chaetonotidae,Chaetonotus,11,greuteri,8,19,Remane,1,1927,P,P1,Latin,Freshwater
+"Paraturbanella dohrni Remane, 1927",Macrodasyida,Turbanellidae,Paraturbanella,14,dohrni,6,20,Remane,1,1927,P,P1,Latin,Marine
+"Chitonodytes collini (Remane, 1927)",Paucitubulatina,Dasydytidae,Chitonodytes,12,collini,7,19,Remane,1,1927,P,P1,Latin,Freshwater
+"Aspidiophorus marinus Remane, 1926",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,marinus,7,20,Remane,1,1926,E,E1,Latin,Marine
+"Heterolepidoderma marinum Remane, 1926",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,marinum,7,24,Remane,1,1926,E,E1,Latin,Marine
+"Heterolepidoderma kossinense (Preobrajenskaja, 1926)",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,kossinense,10,27,Preobrajenskaja,1,1926,G,G2,Latin,Freshwater
+"Chaetonotus balticus Remane, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,balticus,8,19,Remane,1,1926,G,G1,Latin,Marine
+"Dactylopodola baltica (Remane, 1926)",Macrodasyida,Dactylopodolidae,Dactylopodola,13,baltica,7,20,Remane,1,1926,G,G1,Latin,Marine
+"Ichthydium dubium Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Ichthydium,10,dubium,6,16,Preobrajenskaja,1,1926,I,I,Latin,Freshwater
+"Lepidodermella tabulata (Preobrajenskaja, 1926)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,tabulata,8,22,Preobrajenskaja,1,1926,M,M2,Latin,Freshwater
+"Chaetonotus striatus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,striatus,8,19,Preobrajenskaja,1,1926,M,M1,Latin,Freshwater
+"Polymerurus squammofurcatus (Preobrajenskaja, 1926)",Paucitubulatina,Chaetonotidae,Polymerurus,11,squammofurcatus,15,26,Preobrajenskaja,1,1926,M,M2,Latin,Freshwater
+"Chaetonotus splendidus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,splendidus,10,21,Preobrajenskaja,1,1926,M,M1,Latin,Freshwater
+"Halichaetonotus pleuracanthus (Remane, 1926)",Paucitubulatina,Chaetonotidae,Halichaetonotus,15,pleuracanthus,13,28,Remane,1,1926,M,M2,Greek,Marine
+"Ichthydium pellucidum Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Ichthydium,10,pellucidum,10,20,Preobrajenskaja,1,1926,M,M1,Latin,Freshwater
+"Ptychostomella pectinata Remane, 1926",Macrodasyida,Thaumastodermatidae,Ptychostomella,14,pectinata,9,23,Remane,1,1926,M,M2,Latin,Marine
+"Chaetonotus multisetosus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,multisetosus,12,23,Preobrajenskaja,1,1926,M,M1,Latin,Freshwater
+"Urodasys mirabilis Remane, 1926",Macrodasyida,Urodasyidae,Urodasys,8,mirabilis,9,17,Remane,1,1926,M,M1,Latin,Marine
+"Chaetonotus microchaetus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,microchaetus,12,23,Preobrajenskaja,1,1926,M,M2,Greek,Freshwater
+"Xenotrichula micracantha (Remane, 1926)",Paucitubulatina,Xenotrichulidae,Xenotrichula,12,micracantha,11,23,Remane,1,1926,M,M1,Greek,Marine
+"Cephalodasys maximus Remane, 1926",Macrodasyida,Cephalodasyidae,Cephalodasys,12,maximus,7,19,Remane,1,1926,M,M1,Latin,Marine
+"Chaetonotus longisetosus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,longisetosus,12,23,Preobrajenskaja,1,1926,M,M2,Latin,Freshwater
+"Tetranchyroderma hystrix Remane, 1926",Macrodasyida,Thaumastodermatidae,Tetranchyroderma,16,hystrix,7,23,Remane,1,1926,M,M1,Greek,Marine
+"Chaetonotus crassus Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Chaetonotus,11,crassus,7,18,Preobrajenskaja,1,1926,M,M1,Latin,Freshwater
+"Ichthydium bifurcatum Preobrajenskaja, 1926",Paucitubulatina,Chaetonotidae,Ichthydium,10,bifurcatum,10,20,Preobrajenskaja,1,1926,M,M2,Latin,Freshwater
+"Lepidodasys martini Remane, 1926",Macrodasyida,Lepidodasyidae,Lepidodasys,11,martini,7,18,Remane,1,1926,P,P1,Latin,Marine
+"Thaumastoderma heideri Remane, 1926",Macrodasyida,Thaumastodermatidae,Thaumastoderma,14,heideri,7,21,Remane,1,1926,P,P1,Latin,Marine
+"Turbanella cornuta Remane, 1925",Macrodasyida,Turbanellidae,Turbanella,10,cornuta,7,17,Remane,1,1925,M,M2,Latin,Marine
+"Macrodasys buddenbrocki Remane, 1924",Macrodasyida,Macrodasyidae,Macrodasys,10,buddenbrocki,12,22,Remane,1,1924,P,P1,Latin,Marine
+"Ichthydium galeatum Konsuloff, 1921",Paucitubulatina,Chaetonotidae,Ichthydium,10,galeatum,8,18,Konsuloff,1,1921,M,M2,Latin,Freshwater
+"Chaetonotus elegans Konsuloff, 1921",Paucitubulatina,Chaetonotidae,Chaetonotus,11,elegans,7,18,Konsuloff,1,1921,M,M1,Latin,Freshwater
+"Chaetonotus dybowskii Jakubski, 1919",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dybowskii,9,20,Jakubski,1,1919,P,P1,Polish Latinisation,Freshwater
+"Chaetonotus montevideensis Cordero, 1918",Paucitubulatina,Chaetonotidae,Chaetonotus,11,montevideensis,14,25,Cordero,1,1918,G,G2,Latin,Freshwater
+"Proichthydium coronatum Cordero, 1918",Paucitubulatina,Proichthydidae,Proichthydium,13,coronatum,9,22,Cordero,1,1918,M,M2,Latin,Freshwater
+"Chaetonotus rotundus Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,rotundus,8,19,Greuter,1,1917,M,M2,Latin,Freshwater
+"Chaetonotus quintospinosus Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,quintospinosus,14,25,Greuter,1,1917,M,M2,Latin,Freshwater
+"Rhomballichthys punctatus (Greuter, 1917)",Paucitubulatina,Chaetonotidae,Rhomballichthys,15,punctatus,9,24,Greuter,1,1917,M,M2,Latin,Freshwater
+"Chaetonotus polyspinosus Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,polyspinosus,12,23,Greuter,1,1917,M,M1,Latin+Greek,Freshwater
+"Chaetonotus novenarius Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,novenarius,10,21,Greuter,1,1917,M,M2,Latin,Freshwater
+"Chaetonotus mitraformis Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,mitraformis,11,22,Greuter,1,1917,M,M2,Latin,Freshwater
+"Ichthydium maximum Greuter, 1917",Paucitubulatina,Chaetonotidae,Ichthydium,10,maximum,7,17,Greuter,1,1917,M,M1,Latin,Freshwater
+"Chaetonotus macrolepidotus Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,macrolepidotus,14,25,Greuter,1,1917,M,M2,Greek,Freshwater
+"Chitonodytes longispinosus (Greuter, 1917)",Paucitubulatina,Dasydytidae,Chitonodytes,12,longispinosus,13,25,Greuter,1,1917,M,M2,Latin,Freshwater
+"Stylochaeta longispinosa Greuter, 1917",Paucitubulatina,Dasydytidae,Stylochaeta,11,longispinosa,12,23,Greuter,1,1917,M,M2,Latin,Freshwater
+"Setopus iunctus Greuter,1917",Paucitubulatina,Dasydytidae,Setopus,7,iunctus,7,14,Greuter,1,1917,M,M1,Latin,Freshwater
+"Chaetonotus insigniformis Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,insigniformis,13,24,Greuter,1,1917,M,M1,Latin,Freshwater
+"Chaetonotus disjunctus Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,disjunctus,10,21,Greuter,1,1917,M,M1,Latin,Freshwater
+"Haltidytes crassus (Greuter, 1917)",Paucitubulatina,Dasydytidae,Haltidytes,10,crassus,7,17,Greuter,1,1917,M,M1,Latin,Freshwater
+"Chaetonotus cordiformis Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,cordiformis,11,22,Greuter,1,1917,M,M2,Latin,Freshwater
+"Chaetonotus bisacer Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,bisacer,7,18,Greuter,1,1917,M,M2,Latin,Freshwater
+"Chaetonotus voigti Greuter, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,voigti,6,17,Greuter,1,1917,P,P1,Latin,Freshwater
+"Chaetonotus heideri Brehm, 1917",Paucitubulatina,Chaetonotidae,Chaetonotus,11,heideri,7,18,Brehm,1,1917,P,P1,Latin,Freshwater
+"Lepidochaetus zelinkai var bernensis (Steiner, 1913)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,zelinkai,8,21,Steiner,1,1913,G,G2,Latin,Freshwater
+"Dichaetura piscator (Murray, 1913)",Paucitubulatina,Dichaeturidae,Dichaetura,10,piscator,8,18,Murray,1,1913,M,M2,Latin,Freshwater
+"Lepidodermella zelinkai (Konsuloff, 1913)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,zelinkai,8,22,Konsuloff,1,1913,P,P1,Latin,Freshwater
+"Anacanthoderma punctatum Marcolongo, 1910",Paucitubulatina,Dasydytidae,Anacanthoderma,14,punctatum,9,23,Marcolongo,1,1910,M,M2,Latin,Freshwater
+"Chaetonotus paucisetosus Marcolongo, 1910",Paucitubulatina,Chaetonotidae,Chaetonotus,11,paucisetosus,12,23,Marcolongo,1,1910,M,M1,Latin,Freshwater
+"Anacanthoderma paucisetosum (Marcolongo, 1910)",Paucitubulatina,Dasydytidae,Anacanthoderma,14,paucisetosum,12,26,Marcolongo,1,1910,M,M1,Latin,Freshwater
+"Polymerurus nodifurca (Marcolongo, 1910)",Paucitubulatina,Chaetonotidae,Polymerurus,11,nodifurca,9,20,Marcolongo,1,1910,M,M2,Latin,Freshwater
+"Chaetonotus minimus Marcolongo, 1910",Paucitubulatina,Chaetonotidae,Chaetonotus,11,minimus,7,18,Marcolongo,1,1910,M,M1,Latin,Freshwater
+"Chaetonotus laroides Marcolongo, 1910",Paucitubulatina,Chaetonotidae,Chaetonotus,11,laroides,8,19,Marcolongo,1,1910,M,M3,Latin,Freshwater
+"Polymerurus hystrix (Daday, 1910)",Paucitubulatina,Chaetonotidae,Polymerurus,11,hystrix,7,18,Daday,1,1910,M,M1,Greek,Freshwater
+"Chaetonotus hirsutus Marcolongo, 1910",Paucitubulatina,Chaetonotidae,Chaetonotus,11,hirsutus,8,19,Marcolongo,1,1910,M,M1,Latin,Freshwater
+"Chaetonotus decemsetosus Marcolongo, 1910",Paucitubulatina,Chaetonotidae,Chaetonotus,11,decemsetosus,12,23,Marcolongo,1,1910,M,M2,Latin,Freshwater
+"Haltidytes festinans (Voigt, 1909)",Paucitubulatina,Dasydytidae,Haltidytes,10,festinans,9,19,Voigt,1,1909,E,E4,Latin,Freshwater
+"Chaetonotus ploenensis Voigt, 1909",Paucitubulatina,Chaetonotidae,Chaetonotus,11,ploenensis,10,21,Voigt,1,1909,G,G2,German Latinisation,Freshwater
+"Setopus dubius (Voigt, 1909)",Paucitubulatina,Dasydytidae,Setopus,7,dubius,6,13,Voigt,1,1909,I,I,Latin,Freshwater
+"Dasydytes ornatus Voigt, 1909",Paucitubulatina,Dasydytidae,Dasydytes,9,ornatus,7,16,Voigt,1,1909,M,M2,Latin,Freshwater
+"Chaetonotus simrothi Voigt, 1909",Paucitubulatina,Chaetonotidae,Chaetonotus,11,simrothi,8,19,Voigt,1,1909,P,P1,Latin,Freshwater
+"Lepidochaetus zelinkai var graecensis (Grünspan, 1908)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,zelinkai,8,21,Grünspan,1,1908,G,G2,Latin,Freshwater
+"Ichthydium tergestinum Grünspan, 1908",Paucitubulatina,Chaetonotidae,Ichthydium,10,tergestinum,11,21,Grünspan,1,1908,G,G2,Latin,Marine
+"Chaetonotus tenuis Grünspan, 1908",Paucitubulatina,Chaetonotidae,Chaetonotus,11,tenuis,6,17,Grünspan,1,1908,M,M1,Latin,Freshwater
+"Chaetonotus multispinosus Grünspan,1908",Paucitubulatina,Chaetonotidae,Chaetonotus,11,multispinosus,13,24,Grünspan,1,1908,M,M1,Latin,Freshwater
+"Ichthydium cyclocephalum Grünspan, 1908",Paucitubulatina,Chaetonotidae,Ichthydium,10,cyclocephalum,13,23,Grünspan,1,1908,M,M2,Greek,Marine
+"Lepidochaetus zelinkai (Grünspan, 1908)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,zelinkai,8,21,Grünspan,1,1908,P,P1,Latin,Freshwater
+"Lepidochaetus pusillus (Daday, 1905)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,pusillus,8,21,Daday,1,1905,M,M1,Latin,Freshwater
+"Chaetonotus polychaetus Daday, 1905",Paucitubulatina,Chaetonotidae,Chaetonotus,11,polychaetus,11,22,Daday,1,1905,M,M1,Greek,Freshwater
+"Neogossea pauciseta (Daday, 1905)",Paucitubulatina,Neogosseidae,Neogossea,9,pauciseta,9,18,Daday,1,1905,M,M2,Latin,Freshwater
+"Chaetonotus heterochaetus Daday, 1905",Paucitubulatina,Chaetonotidae,Chaetonotus,11,heterochaetus,13,24,Daday,1,1905,M,M1,Greek,Freshwater
+"Neogossea fasciculata (Daday, 1905)",Paucitubulatina,Neogosseidae,Neogossea,9,fasciculata,11,20,Daday,1,1905,M,M2,Latin,Freshwater
+"Chaetonotus erinaceus Daday, 1905",Paucitubulatina,Chaetonotidae,Chaetonotus,11,erinaceus,9,20,Daday,1,1905,M,M1,Latin,Freshwater
+"Polymerurus elongatus (Daday, 1905)",Paucitubulatina,Chaetonotidae,Polymerurus,11,elongatus,9,20,Daday,1,1905,M,M1,Latin,Freshwater
+"Chaetonotus dubius Daday, 1905",Paucitubulatina,Chaetonotidae,Chaetonotus,11,dubius,6,17,Daday,1,1905,M,M3,Latin,Freshwater
+"Ichthydium crassum Daday, 1905",Paucitubulatina,Chaetonotidae,Ichthydium,10,crassum,7,17,Daday,1,1905,M,M1,Latin,Freshwater
+"Neogossea voigti (Daday, 1905)",Paucitubulatina,Neogosseidae,Neogossea,9,voigti,6,15,Daday,1,1905,P,P1,Latin,Freshwater
+"Chaetonotus marinus Giard, 1904",Paucitubulatina,Chaetonotidae,Chaetonotus,11,marinus,7,18,Giard,1,1904,E,E1,Latin,Marine
+"Chaetonotus arquatus Voigt, 1903",Paucitubulatina,Chaetonotidae,Chaetonotus,11,arquatus,8,19,Voigt,1,1903,M,M2,Latin,Freshwater
+"Chaetonotus uncinus Voigt, 1902",Paucitubulatina,Chaetonotidae,Chaetonotus,11,uncinus,7,18,Voigt,1,1902,M,M2,Latin,Freshwater
+"Chaetonotus succinctus Voigt, 1902",Paucitubulatina,Chaetonotidae,Chaetonotus,11,succinctus,10,21,Voigt,1,1902,M,M2,Latin,Freshwater
+"Aspidiophorus paradoxus (Voigt, 1902)",Paucitubulatina,Chaetonotidae,Aspidiophorus,13,paradoxus,9,22,Voigt,1,1902,M,M1,Latin,Freshwater
+"Chaetonotus linguaeformis Voigt, 1902",Paucitubulatina,Chaetonotidae,Chaetonotus,11,linguaeformis,13,24,Voigt,1,1902,M,M1,Latin,Marine/Freshwater
+"Stylochaeta stylifera (Voigt, 1901)",Paucitubulatina,Dasydytidae,Stylochaeta,11,stylifera,9,20,Voigt,1,1901,M,M2,Latin,Freshwater
+"Polymerurus serraticaudus (Voigt, 1901)",Paucitubulatina,Chaetonotidae,Polymerurus,11,serraticaudus,13,24,Voigt,1,1901,M,M2,Latin,Freshwater
+"Polymerurus nodicaudus (Voigt, 1901)",Paucitubulatina,Chaetonotidae,Polymerurus,11,nodicaudus,10,21,Voigt,1,1901,M,M2,Latin,Freshwater
+"Ichthydium forcipatum Voigt, 1901",Paucitubulatina,Chaetonotidae,Ichthydium,10,forcipatum,10,20,Voigt,1,1901,M,M2,Latin,Freshwater
+"Chaetonotus chuni Voigt, 1901",Paucitubulatina,Chaetonotidae,Chaetonotus,11,chuni,5,16,Voigt,1,1901,P,P1,German Latinisation,Freshwater
+"Polymerurus biroi (Daday, 1901)",Paucitubulatina,Chaetonotidae,Polymerurus,11,biroi,5,16,Daday,1,1901,P,P2,Latin,Freshwater
+"Lepidochaetus ornatus (Daday, 1897)",Paucitubulatina,Chaetonotidae,Lepidochaetus,13,ornatus,7,20,Daday,1,1897,M,M1,Latin,Freshwater
+"Polymerurus macrurus (Collin, 1897) or 1898?",Paucitubulatina,Chaetonotidae,Polymerurus,11,macrurus,8,19,Collin,1,1897,M,M2,Greek,Freshwater
+"Setopus bisetosus (Thompson, 1891)",Paucitubulatina,Dasydytidae,Setopus,7,bisetosus,9,16,Thompson,1,1891,M,M2,Latin,Freshwater
+"Stylochaeta fusiformis (Spencer, 1890)",Paucitubulatina,Dasydytidae,Stylochaeta,11,fusiformis,10,21,Spencer,1,1890,M,M1,Latin,Freshwater
+"Chaetonotus similis Zelinka, 1889",Paucitubulatina,Chaetonotidae,Chaetonotus,11,similis,7,18,Zelinka,1,1889,M,M3,Latin,Marine/Freshwater
+"Chaetonotus persetosus Zelinka, 1889",Paucitubulatina,Chaetonotidae,Chaetonotus,11,persetosus,10,21,Zelinka,1,1889,M,M2,Latin,Marine/Freshwater
+"Chaetonotus macrochaetus Zelinka, 1889",Paucitubulatina,Chaetonotidae,Chaetonotus,11,macrochaetus,12,23,Zelinka,1,1889,M,M2,Greek,Freshwater
+"Chaetonotus brevispinosus Zelinka, 1889",Paucitubulatina,Chaetonotidae,Chaetonotus,11,brevispinosus,13,24,Zelinka,1,1889,M,M2,Latin,Freshwater
+"Haltidytes saltitans (Stokes, 1888)",Paucitubulatina,Dasydytidae,Haltidytes,10,saltitans,9,19,Stokes,1,1888,E,E4,Latin,Freshwater
+"Chaetonotus acanthophorus Stokes, 1888",Paucitubulatina,Chaetonotidae,Chaetonotus,11,acanthophorus,13,24,Stokes,1,1888,M,M1,Greek,Freshwater
+"Ichthydium sulcatum (Stokes, 1887)",Paucitubulatina,Chaetonotidae,Ichthydium,10,sulcatum,8,18,Stokes,1,1887,M,M2,Latin,Freshwater
+"Chaetonotus spinulosus Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,spinulosus,10,21,Stokes,1,1887,M,M1,Latin,Freshwater
+"Chaetonotus spinifer Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,spinifer,8,19,Stokes,1,1887,M,M1,Latin,Freshwater
+"Polymerurus rhomboides (Stokes, 1887)",Paucitubulatina,Chaetonotidae,Polymerurus,11,rhomboides,10,21,Stokes,1,1887,M,M2,Latin,Freshwater
+"Chaetonotus octonarius Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,octonarius,10,21,Stokes,1,1887,M,M2,Latin,Freshwater
+"Chaetonotus longispinosus Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,longispinosus,13,24,Stokes,1,1887,M,M1,Latin,Freshwater
+"Chaetonotus formosus Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,formosus,8,19,Stokes,1,1887,M,M1,Latin,Freshwater
+"Chaetonotus enormis Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,enormis,7,18,Stokes,1,1887,M,M1,Latin,Freshwater
+"Chaetonotus acanthodes Stokes, 1887",Paucitubulatina,Chaetonotidae,Chaetonotus,11,acanthodes,10,21,Stokes,1,1887,M,M1,Greek,Freshwater
+"Kijanebalola cubuetes (Gosse, 1886)",Paucitubulatina,Neogosseidae,Kijanebalola,12,cubuetes,8,20,Gosse,1,1886,E,E4,Greek,Freshwater
+"Chaetonotus bogdanovii (Schimkewitsch, 1886)",Paucitubulatina,Chaetonotidae,Chaetonotus,11,bogdanovii,10,21,Schimkewitsch,1,1886,P,P1,Russian Latinisation,Freshwater
+"Polymerurus entzii (Daday, 1882)",Paucitubulatina,Chaetonotidae,Polymerurus,11,entzii,6,17,Daday,1,1882,P,P1,Latin,Freshwater
+"Hemidasys agaso Claparède, 1867",Macrodasyida,Thaumastodermatidae,Hemidasys,9,agaso,5,14,Claparède,1,1867,E,E3,Latin,Marine
+"Polymerurus longicaudatus (Tatem, 1867)",Paucitubulatina,Chaetonotidae,Polymerurus,11,longicaudatus,13,24,Tatem,1,1867,M,M2,Latin,Freshwater
+"Heterolepidoderma ocellatum (Metschnikoff, 1865)",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,ocellatum,9,26,Metschnikoff,1,1865,M,M2,Latin,Freshwater
+"Chitonodytes longisetosus (Metschnikoff, 1865)",Paucitubulatina,Dasydytidae,Chitonodytes,12,longisetosus,12,24,Metschnikoff,1,1865,M,M2,Latin,Freshwater
+"Chaetonotus hystrix Metschnikoff, 1865",Paucitubulatina,Chaetonotidae,Chaetonotus,11,hystrix,7,18,Metschnikoff,1,1865,M,M1,Latin,Marine/Freshwater
+"Dichaetura capricornia (Metschnikoff, 1865)",Paucitubulatina,Dichaeturidae,Dichaetura,10,capricornia,11,21,Metschnikoff,1,1865,M,M2,Latin,Freshwater
+"Chaetonotus schultzei Metschnikoff, 1865",Paucitubulatina,Chaetonotidae,Chaetonotus,11,schultzei,9,20,Metschnikoff,1,1865,P,P1,German Latinisation,Freshwater
+"Heterolepidoderma ocellatum Metschnikoff, 1864",Paucitubulatina,Chaetonotidae,Heterolepidoderma,17,ocellatum,9,26,Metschnikoff,1,1864,M,M2,Latin,Marine
+"Turbanella hyalina Schultze, 1853",Macrodasyida,Turbanellidae,Turbanella,10,hyalina,7,17,Schultze,1,1853,M,M1,Latin,Marine
+"Dasydytes goniathrix Gosse, 1851",Paucitubulatina,Dasydytidae,Dasydytes,9,goniathrix,10,19,Gosse,1,1851,M,M1,Greek,Freshwater
+"Neogossea antennigera (Gosse, 1851)",Paucitubulatina,Neogosseidae,Neogossea,9,antennigera,11,20,Gosse,1,1851,M,M2,Latin,Freshwater
+"Lepidodermella squamata (Dujardin, 1841)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,squamata,8,22,Dujardin,1,1841,M,M2,Latin,Marine
+"Lepidodermella squamata (Dujardin, 1841)",Paucitubulatina,Chaetonotidae,Lepidodermella,14,squamata,8,22,Dujardin,1,1841,M,M2,Latin,Freshwater
+"Chaetonotus maximus Ehrenberg, 1838",Paucitubulatina,Chaetonotidae,Chaetonotus,11,maximus,7,18,Ehrenberg,1,1838,M,M1,Latin,Marine
+"Ichthydium podura (Müller, 1773)",Paucitubulatina,Chaetonotidae,Ichthydium,10,podura,6,16,Müller,1,1773,M,M2,Greek,Marine
+"Ichthydium podura (Müller, 1773)",Paucitubulatina,Chaetonotidae,Ichthydium,10,podura,6,16,Müller,1,1773,M,M2,Greek,Freshwater
+"Chaetonotus larus (Müller, 1773)",Paucitubulatina,Chaetonotidae,Chaetonotus,11,larus,5,16,Müller,1,1773,M,M2,Latin,Freshwater
